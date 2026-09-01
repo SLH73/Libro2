@@ -19,9 +19,14 @@ sesión limpia más tarde. Tú puedes ser la sesión número 1 o la número 40. 
 sabes. Así que **antes de escribir una sola línea**:
 
 ```bash
+bash scripts/turno.sh         # ¿hay otra sesión trabajando? Si sale OCUPADO, no toques nada
 bash scripts/estado.sh        # recuenta palabras y regenera obra/ESTADO.md
 cat obra/ESTADO.md            # dónde se quedó la sesión anterior
 ```
+
+Si `scripts/turno.sh` dice **OCUPADO**, hay otra sesión escribiendo ahora mismo:
+termina el turno sin tocar el repositorio y sin escribir nada. Si dice **TURNO
+LIBRE**, es tuyo.
 
 `obra/ESTADO.md` te dice exactamente **qué capítulo toca escribir ahora**. No
 preguntes al usuario, no propongas alternativas, no rediseñes nada: **continúa
