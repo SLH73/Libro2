@@ -76,4 +76,50 @@ promesa), **se anota aquí en el mismo commit**.
 
 ## Notas de continuidad por sesión
 
-*(las sesiones anotan aquí lo que introducen)*
+### Capítulos 1-8 (sesión 1)
+
+**Personajes nuevos:**
+- **Ricardo Bernal**, 54, técnico del IML. Ceutí, hijo y nieto de pescaderos. El
+  hombre más callado del libro: da datos, nunca opiniones. Trajo hielo del bar de
+  Manolo el 30-VII.
+- **Sargento Ramírez**, 55ish, Guardia Civil, de Jaén, en Ceuta desde 1998.
+- **Angustias**, 81, vecina del primero de Elena, viuda de un legionario. Compra
+  el periódico aunque ya no lo lee.
+- **Abelardo Bonmatí**, padre de Elena, guardia civil, † 1996 de infarto. **Le
+  hizo la autopsia Marcial Rueda.**
+- **Juez de guardia**, 31, de Valladolid, 9 meses en la ciudad.
+
+**Datos duros fijados:**
+- El IML tiene **seis cajones**. En febrero de 2014 hicieron falta quince.
+- El fluorescente del pasillo parpadea **desde 2019**. El limonero del patio lo
+  plantó alguien hacia 2006.
+- Anuar es el **cuerpo nº 7**. 1,64 m, 48 kg, pantalón de chándal gris que no era
+  suyo (goma anudada por dentro), corte de pelo doméstico reciente, quemadura
+  antigua de aceite en el antebrazo izquierdo.
+- **El dato técnico que sostiene la novela**: a los 14 años el hioides no está
+  osificado —las astas mayores son cartílago—, así que una fractura es una
+  rareza. La única objeción seria es la maniobra de reanimación, y se plantea ya
+  en el cap 7 para que el cap 26 la desarrolle.
+- Elena volvió a Ceuta el **jueves 15 de junio de 2017**, en el barco de las once.
+  Su primer informe de edad es del **viernes 16 de junio de 2017**: intervalo de
+  15 a 17 en el cuerpo del informe y **16 en la casilla**.
+- **La casilla**: el impreso oficial tiene una casilla de dos centímetros donde no
+  cabe un intervalo, solo un número. Es el objeto simbólico central junto al atlas.
+- Yassin: reseña decadactilar julio 2017 · ingreso en acogida **26-VII-2017** ·
+  informe de Elena **4-VIII-2017** · resolución de Fiscalía **7-VIII-2017** ·
+  salida del CETI **22-VIII-2017** · **después, nada**. No existe para el Estado.
+- Elena tiene **la única llave del archivo del sótano desde 2019**.
+- Cañete tiene mujer. Elena tuvo un piso en Chamberí con Gonzalo, vendido en 2021.
+
+**Promesas abiertas nuevas:**
+- Robles dice que él y Elena **hablaron tres veces en agosto de 2017** y ella no lo
+  recuerda → paga en cap 25 y cap 89.
+- Elena **miente a Cañete** sobre cuántos informes hizo en 2017 (cap 7) → paga en
+  cap 20 y en la comparecencia del 88.
+- «La razón no la supo hasta noviembre» (cap 5) → paga en cap 83.
+- Julia se ha cortado el pelo sola y **fuma** (cap 4), y su sudadera huele a tabaco.
+
+**Desviación menor respecto a la arquitectura:** la ficha del cap 7 preveía que
+Cañete explicara allí por qué nadie va a investigar; eso se adelantó al cap 3 para
+no repetir, y el 7 se convirtió en la escena en que nace el caso y en la primera
+mentira de Elena. La función dramática se mantiene.
