@@ -123,3 +123,44 @@ promesa), **se anota aquí en el mismo commit**.
 Cañete explicara allí por qué nadie va a investigar; eso se adelantó al cap 3 para
 no repetir, y el 7 se convirtió en la escena en que nace el caso y en la primera
 mentira de Elena. La función dramática se mantiene.
+
+### Capítulos 13-17 (sesión 1)
+
+**Personajes nuevos:**
+- **Fátima**, ~50, del Príncipe Alfonso. Alojó a cuatro chavales en el salón del
+  31-VII al 9-VIII. Marido estibador del puerto (turno de noche), hijo de 26 en
+  Málaga, hija de 17. **Su suegra llegó de Tetuán en 1957**: rima con Milagros.
+- **Ayoub**, 16, camiseta del Madrid, chanclas azules pequeñas. El primer chaval
+  del cap 12. «Para saber si soy niño.» «Entonces para qué me lo pregunta.»
+- **Bilal**, 14 declarado, el sexto informe de julio de 2017. Elena puso 16.
+
+**Datos duros fijados:**
+- **El Príncipe Alfonso está a 2,5 km del portal de Elena y ella no había subido
+  nunca en 47 años.** Núcleo temático de la Parte I.
+- Julio 2017: el centro de menores tenía **62 plazas y 191 chavales** (×3,1). Una
+  plaza cuesta 110-140 €/día → ~43.800 €/año por chaval.
+- **Los que llegan con papeles no pasan por la mesa de Elena.** La prueba de edad
+  solo se aplica a quien no puede documentarse: los más pobres de los pobres.
+- **Los 119 informes de Rueda (2014-2016)**: 94 de 18 o más, 23 de 17, 2 de 16.
+  Ninguno por debajo de 16. Elena lo descubre en el sótano en julio de 2017 y
+  aquella misma tarde firma un 17.
+- El impreso de autopsia tiene un segundo recuadro, **ETIOLOGÍA MÉDICO-LEGAL**
+  (natural / accidental / suicida / homicida / indeterminada). **Es el hermano
+  gemelo de la casilla de la edad**, y en el cap 17 Elena hace con él exactamente
+  lo que condena: convierte una duda en una certeza. Semilla directa del 82-83.
+- **Las chanclas**: Cruz Roja repartió 2.000 pares desde el 1-VIII. La deducción
+  de Elena sobre Driss (cap 16) es falsa. Es el primer ensayo del error central.
+- Cruz Roja: Julia le da su teléfono a Driss delante de su madre, a propósito
+  (cap 16).
+
+**Promesa abierta NUEVA (desviación de la arquitectura, aprobada):**
+- Cap 17: a las 11:30 del 7 de agosto entra en el juzgado un **escrito de
+  personación de un abogado de Málaga en nombre de un familiar del fallecido**,
+  cuando el cuerpo no está identificado y no hay diligencias incoadas. Es Yassin
+  moviéndose por vía legal, y adelanta un hilo que la arquitectura dejaba para el
+  52. **Debe pagarse antes: el abogado aparece en la Parte II y conduce al
+  cementerio del cap 42.** Refuerza el motor de la Parte I sin tocar el diseño.
+- Cap 15: la Fiscalía de Menores ha pedido la relación de todos los informes de
+  edad emitidos en Ceuta desde 2015 con el nombre del firmante. Paga en el 62.
+- Cap 15: la delegada **gana su discusión** (el error contrario: adultos dentro de
+  un centro con niños de doce). Cumplido el requisito del brief.
