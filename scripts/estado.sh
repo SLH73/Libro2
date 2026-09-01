@@ -16,13 +16,20 @@ siguiente=$(printf "%03d" $((10#${ultimo_num} + 1)))
 pct=$(( palabras * 100 / OBJETIVO ))
 restantes=$(( OBJETIVO - palabras ))
 [ $restantes -lt 0 ] && restantes=0
+caps_restantes=$(( TOTAL_CAPS - escritos ))
+[ $caps_restantes -lt 1 ] && caps_restantes=1
+# La media que hay que sostener de aquí al final para llegar a 200.000.
+# Se recalcula sola en cada capítulo: si una sesión escribe corto, la
+# siguiente lo ve y compensa. Es el termostato de la obra.
+media_necesaria=$(( restantes / caps_restantes ))
+if [ "$escritos" -gt 0 ]; then media_actual=$(( palabras / escritos )); else media_actual=0; fi
 
 if [ "$escritos" -ge "$TOTAL_CAPS" ] && [ "$palabras" -ge "$OBJETIVO" ]; then
   fase="TERMINADA — pasar a cierre editorial y desactivar la tarea programada"
   accion="No escribas más capítulos. Ejecuta editor-literario y auditor-autenticidad sobre el manuscrito completo, ensambla con scripts/ensamblar.sh y avisa al usuario."
 else
   fase="EN PRODUCCIÓN"
-  accion="Escribe el capítulo $siguiente siguiendo obra/arquitectura.md. Commit y push inmediatamente después. Luego el $((10#$siguiente + 1)). Sin parar."
+  accion="Escribe el capítulo $siguiente siguiendo obra/arquitectura.md, **con una extensión de al menos $media_necesaria palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el $((10#$siguiente + 1)). Sin parar."
 fi
 
 cat > obra/ESTADO.md <<EOF
@@ -39,6 +46,23 @@ cat > obra/ESTADO.md <<EOF
 | **Capítulos escritos** | $escritos / $TOTAL_CAPS |
 | **Último capítulo cerrado** | ${ultimo:-ninguno todavía} |
 | **SIGUIENTE CAPÍTULO A ESCRIBIR** | **$siguiente** |
+| **Media escrita hasta ahora** | $media_actual palabras/capítulo |
+| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **$media_necesaria palabras/capítulo** |
+
+## ⚠️ Aviso de ritmo
+
+Quedan **$restantes palabras** repartidas en **$caps_restantes capítulos**. Eso obliga
+a una media de **$media_necesaria palabras por capítulo** de aquí al final.
+
+Las fichas de \`obra/arquitectura.md\` dan la extensión *relativa* de cada capítulo
+(cuál es largo y cuál es corto, y eso no se toca: el ritmo irregular es una
+decisión de estilo). Pero la escala se ajusta a esta media. Si la ficha pide 2.000
+y la media necesaria es 2.400, escribe ese capítulo a 2.400. Los capítulos en
+primera persona —\`[ANUAR]\` y \`[VOZ]\`— son la excepción y **nunca pasan de 1.400
+palabras**: son cuchilladas, y alargarlos los estropea.
+
+Escribir corto es el único error que este sistema no perdona, porque no se nota en
+un capítulo y se nota al final del libro.
 
 ## Qué tienes que hacer ahora
 

@@ -1,7 +1,7 @@
 # ESTADO DE LA OBRA
 
 > Fichero generado por `scripts/estado.sh`. **Es lo primero que lee cada sesión.**
-> Última actualización: 2026-09-01 22:40 UTC
+> Última actualización: 2026-09-01 22:41 UTC
 
 | | |
 |---|---|
@@ -11,10 +11,27 @@
 | **Capítulos escritos** | 20 / 100 |
 | **Último capítulo cerrado** | obra/capitulos/020-la-agenda.md |
 | **SIGUIENTE CAPÍTULO A ESCRIBIR** | **021** |
+| **Media escrita hasta ahora** | 1284 palabras/capítulo |
+| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **2178 palabras/capítulo** |
+
+## ⚠️ Aviso de ritmo
+
+Quedan **174310 palabras** repartidas en **80 capítulos**. Eso obliga
+a una media de **2178 palabras por capítulo** de aquí al final.
+
+Las fichas de `obra/arquitectura.md` dan la extensión *relativa* de cada capítulo
+(cuál es largo y cuál es corto, y eso no se toca: el ritmo irregular es una
+decisión de estilo). Pero la escala se ajusta a esta media. Si la ficha pide 2.000
+y la media necesaria es 2.400, escribe ese capítulo a 2.400. Los capítulos en
+primera persona —`[ANUAR]` y `[VOZ]`— son la excepción y **nunca pasan de 1.400
+palabras**: son cuchilladas, y alargarlos los estropea.
+
+Escribir corto es el único error que este sistema no perdona, porque no se nota en
+un capítulo y se nota al final del libro.
 
 ## Qué tienes que hacer ahora
 
-Escribe el capítulo 021 siguiendo obra/arquitectura.md. Commit y push inmediatamente después. Luego el 22. Sin parar.
+Escribe el capítulo 021 siguiendo obra/arquitectura.md, **con una extensión de al menos 2178 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 22. Sin parar.
 
 ## Recordatorio
 
