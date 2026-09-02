@@ -1,23 +1,23 @@
 # ESTADO DE LA OBRA
 
 > Fichero generado por `scripts/estado.sh`. **Es lo primero que lee cada sesión.**
-> Última actualización: 2026-09-02 18:56 UTC
+> Última actualización: 2026-09-02 18:57 UTC
 
 | | |
 |---|---|
 | **Fase** | EN PRODUCCIÓN |
-| **Palabras escritas** | **124324** / 155000 (80 %) |
-| **Palabras restantes** | 30676 |
-| **Capítulos escritos** | 108 / 125 |
-| **Último capítulo cerrado** | obra/capitulos/108-benzu-en-marzo.md |
-| **SIGUIENTE CAPÍTULO A ESCRIBIR** | **109** |
+| **Palabras escritas** | **125527** / 155000 (80 %) |
+| **Palabras restantes** | 29473 |
+| **Capítulos escritos** | 109 / 125 |
+| **Último capítulo cerrado** | obra/capitulos/109-cuarenta-y-dos-cartas.md |
+| **SIGUIENTE CAPÍTULO A ESCRIBIR** | **110** |
 | **Media escrita hasta ahora** | 1151 palabras/capítulo |
-| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **1804 palabras/capítulo** |
+| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **1842 palabras/capítulo** |
 
 ## Ritmo
 
-Quedan **30676 palabras** en **17 capítulos**: una media de
-**1804 palabras por capítulo**, que es el ritmo natural de esta novela y
+Quedan **29473 palabras** en **16 capítulos**: una media de
+**1842 palabras por capítulo**, que es el ritmo natural de esta novela y
 no hay que forzarlo en ninguna dirección.
 
 **La extensión la manda la escena, no la cuenta.** Las fichas de
@@ -33,14 +33,14 @@ exactamente por donde empieza a sonar a manual.
 
 ## Qué tienes que hacer ahora
 
-Escribe el capítulo 109 siguiendo obra/arquitectura.md, **con una extensión de al menos 1804 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 110. Sin parar.
+Escribe el capítulo 110 siguiendo obra/arquitectura.md, **con una extensión de al menos 1842 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 111. Sin parar.
 
 ## Recordatorio
 
-1. Lee la ficha del capítulo 109 en `obra/arquitectura.md`.
+1. Lee la ficha del capítulo 110 en `obra/arquitectura.md`.
 2. Lee `obra/biblia.md` y los dos últimos capítulos escritos para no romper continuidad.
-3. Escribe en `obra/capitulos/109-titulo-en-kebab.md`.
-4. `bash scripts/estado.sh && git add -A && git commit -m "cap 109: ..." && git push -u origin claude/libro-200k-agentes-automaticos-28lkqx`
+3. Escribe en `obra/capitulos/110-titulo-en-kebab.md`.
+4. `bash scripts/estado.sh && git add -A && git commit -m "cap 110: ..." && git push -u origin claude/libro-200k-agentes-automaticos-28lkqx`
 5. Vuelve al punto 1 con el capítulo siguiente. No pares hasta que se corte la sesión.
 
 ## Notas dejadas por la sesión anterior
