@@ -336,6 +336,16 @@ arrancar. *Silencio.*
 **054 · Lo que pide un nombre · [2026] · 2.300.** Inscribir a un muerto sin papeles
 en el Registro Civil: los requisitos, el funcionario, el bucle. *Gancho.*
 
+> **NUDO DE LA SEGUNDA MITAD, establecido en el 54 y que gobierna todo lo que
+> viene.** Para inscribir a Anuar hacen falta tres vías y solo queda una: prueba
+> biológica de parentesco. Sirve la de un hermano. El hermano está en Ceuta. Pero
+> para dar la muestra tiene que identificarse ante una autoridad española, y en
+> cuanto diga su nombre en un edificio oficial se le incoa expediente de expulsión
+> automático. **El precio de darle un nombre a su hermano es perder el suyo.** No
+> es una trampa ni un fallo: es un precio, está a la vista y cualquiera puede
+> pagarlo. La detención del cap 82 deja de ser un error policial y pasa a ser **una
+> decisión de Yassin**, que es infinitamente mejor.
+
 **055 · Anuar VI · [ANUAR] · 950.** La foto de carné. Las cuatro copias. *Giro.*
 
 **056 · Julia y Driss · [2026] · 2.000.** Elena entiende hasta dónde ha llegado su
