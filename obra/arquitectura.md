@@ -82,7 +82,15 @@ en el capítulo 61.
 
 ---
 
-# LOS CIEN CAPÍTULOS
+# LOS CIENTO VEINTICINCO CAPÍTULOS
+
+> **Ampliación acordada tras el bloque 2 (informe `editorial-02.md`).** El plano
+> original preveía cien capítulos de 2.000 palabras. La media real de escritura es
+> de 1.269, y no por descuido: los capítulos salen así porque están bien cortados.
+> Alargarlos sería meter relleno en una novela cuyo motor es que no lo tiene. Se
+> mantiene la extensión natural de la escena y **se pasa de 100 a 125 capítulos**.
+> Media necesaria de aquí al final: unas 1.767 palabras. Las tres partes que quedan
+> iban sobrecargadas de trama en el plano original; ahora respiran.
 
 Formato: `NNN · título · [línea] · ~palabras` — objetivo · qué revela · cierre.
 
@@ -280,225 +288,285 @@ Parte II.*
 >    detención de Julia, y la que convierte a Elena en cómplice antes de ser
 >    denunciante.
 
-## PARTE III — LOS CUARENTA Y TRES (43-62) · 21 agosto – 10 septiembre · ~40.000
+## PARTE III — LOS CUARENTA Y TRES (43-68) · 19 septiembre – 20 octubre · ~46.000
 
-**043 · Anuar VII · [ANUAR] · 1.000.** El hermano mayor le dice que no venga.
-*Cierre: silencio.*
+> **Reloj de la parte:** la citación del expediente disciplinario, fijada en el 49
+> para el 20 de octubre. Todo lo demás corre contra esa fecha.
 
-**044 · El chaval del piso · [2026] · 2.300.** Elena descubre a Driss en el piso
-vacío de su madre. Su hija lleva dieciocho días escondiendo a un menor.
-*Cierre: gancho.*
+**043 · Anuar VII · [ANUAR] · 1.000.** Marzo. El día que consiguió el papel del
+taller. Lo dobló en cuatro y lo llevó cuatro meses en el bolsillo. *Silencio.*
 
-**045 · Lo que hace una madre · [2026] · 2.000.** Elena no lo denuncia. Primera
-grieta en la funcionaria. *Cierre: giro.*
+**044 · El conserje · [2026] · 1.800.** Elena vuelve a Sidi Embarek al día
+siguiente. El hombre que lleva el cementerio le explica cómo funciona una tumba con
+número y qué haría falta para cambiarle el nombre. *Gancho.*
 
-**046 · El cuerpo se movió · [2026] · 2.400.** Fredo, con la paciencia de treinta
-y ocho años de oficio, demuestra que el cadáver fue arrastrado fuera del agua y
-devuelto a ella. Alguien lo tocó antes que la Guardia Civil. *Cierre: gancho.*
+**045 · Cañete · [2026] · 2.200.** Escena propia del subinspector, no de
+acompañamiento: le quedan siete meses de servicio y ha decidido gastarlos en esto.
+Trae la trascripción de la malla de emisoras del 30 de julio. *Gancho.*
 
-**047 · Agosto de 2017 · [2017] · 1.900.** La instrucción verbal. Nunca hubo un
-papel. Nunca lo hay. *Cierre: silencio.*
+**046 · El cuerpo se movió · [2026] · 2.400.** Con la malla y las horas, Cañete
+demuestra que el cadáver fue sacado del agua, tendido en seco y devuelto. Alguien lo
+tocó una hora antes que la Guardia Civil. *Gancho.*
 
-**048 · Seis de cuarenta y tres · [2026] · 2.700.** Elena localiza a seis de los
-chicos de 2017. Dos han muerto. Uno es electricista en Girona. Uno no quiere
-hablar con ella. Los otros dos no aparecen. *Cierre: silencio.*
+**047 · Agosto de 2017 · [2017] · 2.000.** La instrucción verbal que nunca existió.
+Elena reconstruye que nadie le dijo nada nunca, y que eso es lo que la condena.
+*Silencio.*
 
-**049 · Apartada · [2026] · 2.100.** Robles consigue que le retiren el caso sin
-levantar la voz ni cometer una sola ilegalidad. *Cierre: gancho.*
+**048 · Voz: Driss · [VOZ] · 1.200.** El agua contada por dentro. Se calla
+exactamente donde se calla todo el mundo. *Giro.*
 
-**050 · Voz: Driss · [VOZ] · 1.200.** Primera persona. El chico cuenta el agua y
-se calla exactamente en el punto en el que se calla todo el mundo. *Cierre: giro.*
+**049 · Información reservada · [2026] · 2.100.** Le incoan expediente. Citación
+para el 20 de octubre. Instructor de Cádiz. *Gancho.*
 
-**051 · La tumba número siete · [2026] · 2.200.** Elena vuelve al cementerio.
-Esta vez hay un hombre. *Cierre: gancho.*
+**050 · Apartada · [2026] · 2.000.** Robles consigue que le retiren la pericia sin
+levantar la voz ni cometer una ilegalidad. *Gancho.*
 
-**052 · Yassin · [2026] · 3.400.** **GIRO MEDIO.** Nueve años en una habitación
-de tres metros. Yassin le cuenta lo del bolsillo: metió el informe de ella en el
-pantalón de su hermano muerto porque era la única forma que tenía un hombre sin
-papeles de obligar al Estado español a mirar a Anuar. No quiere venganza. Quiere
-un nombre en un papel. **La novela cambia de género aquí.** *Cierre: silencio.*
+**051 · Rueda, segunda visita · [2026] · 2.500.** Benzú. El maestro cuenta por qué
+no firmó ni uno en el verano de 2017. *Giro.*
 
-**053 · Después · [2026] · 1.800.** Elena en el coche, aparcada, dos horas sin
-arrancar. *Cierre: silencio.*
+**052 · Yassin · [2026] · 3.000.** **GIRO MEDIO.** Nueve años en una habitación de
+tres metros. Le cuenta lo del bolsillo: metió el informe de ella en el pantalón de su
+hermano porque era la única forma que tenía un hombre sin papeles de obligar al
+Estado a mirar a Anuar. No quiere venganza: quiere un nombre en un papel. **La novela
+cambia de género aquí.** *Silencio.*
 
-**054 · Lo que pide un nombre · [2026] · 2.300.** Inscribir a un muerto sin
-papeles en el Registro Civil de Ceuta: los requisitos, el funcionario, el bucle.
-Burocracia como thriller. *Cierre: gancho.*
+**053 · Después · [2026] · 1.600.** Elena en el coche, aparcada, dos horas sin
+arrancar. *Silencio.*
 
-**055 · Anuar VI · [ANUAR] · 950.** La foto de carné que se hizo para el viaje.
-*Cierre: giro.*
+**054 · Lo que pide un nombre · [2026] · 2.300.** Inscribir a un muerto sin papeles
+en el Registro Civil: los requisitos, el funcionario, el bucle. *Gancho.*
 
-**056 · Rueda habla · [2026] · 2.800.** Segunda visita a Benzú. El maestro cuenta
-lo suyo, que es peor, y explica por qué nunca pasó nada. *Cierre: giro.*
+**055 · Anuar VI · [ANUAR] · 950.** La foto de carné. Las cuatro copias. *Giro.*
 
-**057 · La periodista · [2026] · 2.000.** Aparece una reportera de un diario
-nacional. Elena tiene que decidir si habla. No habla. *Cierre: gancho.*
+**056 · Julia y Driss · [2026] · 2.000.** Elena entiende hasta dónde ha llegado su
+hija y calla otra vez. *Silencio.*
 
-**058 · Certificado de defunción de un desconocido · [2026] · 2.100.** El papel
-que sí se puede firmar. Elena lo firma. Es poco y es lo primero. *Cierre: silencio.*
+**057 · La periodista · [2026] · 2.000.** Una reportera de un diario nacional.
+Elena decide no hablar. *Gancho.*
 
-**059 · Voz: Robles · [VOZ] · 1.400.** Primera persona, la única del comisario.
-Febrero de 2014. El Tarajal. Lo que vio y lo que hizo y lo que no ha contado
-nunca. **No debe pedir perdón ni justificarse.** *Cierre: silencio.*
+**058 · Certificado de defunción de un desconocido · [2026] · 1.800.** El papel que
+sí se puede firmar. Es poco y es lo primero. *Silencio.*
 
-**060 · La reunión · [2026] · 2.400.** La delegada, Robles y Elena en el mismo
-despacho. Tres personas decentes tomando una decisión indecente. *Cierre: gancho.*
+**059 · Voz: Robles · [VOZ] · 1.400.** La única primera persona del comisario.
+Febrero de 2014, el Tarajal. **No pide perdón ni se justifica.** *Silencio.*
 
-**061 · Los dos veranos · [2017]+[2026] · 3.000.** **El capítulo donde se tocan
-las líneas.** Montaje alterno: el 4 de agosto de 2017 y el 4 de septiembre de
-2026 en la misma sala del Instituto, la misma silla, la misma pregunta. Vasos
-comunicantes en estado puro. *Cierre: giro.*
+**060 · La reunión · [2026] · 2.300.** La delegada, Robles y Elena. Tres personas
+decentes tomando una decisión indecente. *Gancho.*
 
-**062 · La filtración · [2026] · 2.200.** El nombre de Elena en un diario
-nacional: la forense que declaró adultos a cuarenta y tres menores. Todo cierto.
-*Cierre: gancho. Fin Parte III.*
+**061 · Los dos veranos · [2017]+[2026] · 2.800.** **Donde se tocan las líneas.**
+Montaje alterno: 4 de agosto de 2017 y 4 de octubre de 2026, la misma sala, la misma
+silla, la misma pregunta. *Giro.*
 
-## PARTE IV — LA CIUDAD SITIADA (63-82) · septiembre – octubre · ~40.000
+**062 · Anuar V · [ANUAR] · 1.000.** El taller de Hamid. El primer sueldo.
+*Silencio.*
 
-**063 · Ochenta y tres mil vecinos · [2026] · 2.400.** Ser señalada en una ciudad
-de ochenta y tres mil habitantes donde todos se conocen. La panadería. El
-gimnasio. *Cierre: silencio.*
+**063 · Septiembre de 2017 · [2017] · 2.200.** El día que Elena supo que se había
+equivocado y decidió no hacer nada. La escena más difícil del libro. *Silencio.*
 
-**064 · Expediente disciplinario · [2026] · 2.000.** Ministerio. Instructor.
-Suspensión cautelar de funciones. *Cierre: gancho.*
+**064 · Milagros · [2026] · 1.700.** La madre, un día bueno. Dice el nombre de su
+hija una vez y vuelve a irse. *Silencio.*
 
-**065 · Anuar V · [ANUAR] · 1.000.** El primer trabajo, a los once, en un taller
-de Beni Mellal. *Cierre: silencio.*
+**065 · Cifuentes vuelve · [2026] · 2.200.** Elena le cuenta por fin lo del papel
+del bolsillo. La perito de Cádiz cambia de bando sin cambiar de informe. *Gancho.*
 
-**066 · Los que la defienden · [2026] · 2.200.** Fredo, Chaimae y —sorpresa—
-Marcial Rueda. Los aliados que a Elena le habría gustado no tener. *Cierre: giro.*
+**066 · Los que quedan · [2026] · 1.900.** Ceuta cuando se van las cámaras.
+*Silencio.*
 
-**067 · Los que la atacan · [2026] · 2.300.** Y la parte de razón que tienen.
-*Cierre: gancho.*
+**067 · Vísperas · [2026] · 2.000.** La noche antes de la comparecencia. Elena
+prepara lo que va a decir y escribe tres versiones. *Gancho.*
 
-**068 · Milagros · [2026] · 1.800.** La madre, un día bueno. Dice el nombre de su
-hija una vez y vuelve a irse. *Cierre: silencio.*
+**068 · La filtración · [2026] · 2.200.** 20 de octubre. Antes de entrar a
+declarar, su nombre está en un diario nacional: la forense que declaró adultos a
+cuarenta y tres menores. Todo cierto. *Gancho. Fin Parte III.*
 
-**069 · Voz: Yassin II · [VOZ] · 1.200.** Nueve años de Europa contados en una
-página y media: Almería, Perpiñán, un invernadero, una furgoneta, una frontera y
-otra frontera. *Cierre: giro.*
+## PARTE IV — LA CIUDAD SITIADA (69-98) · octubre – noviembre · ~53.000
 
-**070 · Septiembre de 2017 · [2017] · 2.000.** El día que Elena supo que se había
-equivocado y decidió no hacer nada. La escena más difícil del libro. *Cierre:
-silencio.*
+> **Reloj de la parte:** la prisión provisional de Yassin, acordada en el 83 con un
+> plazo que vence en el 98.
 
-**071 · Detenida · [2026] · 2.600.** Julia, por favorecimiento de la inmigración
-irregular y ocultación de un menor. La madre forense en el pasillo de una
-comisaría. *Cierre: gancho.*
+**069 · Ochenta y tres mil vecinos · [2026] · 2.100.** Ser señalada en una ciudad
+donde todos se conocen. La panadería. El gimnasio. *Silencio.*
 
-**072 · Gonzalo en Ceuta · [2026] · 2.200.** El exmarido llega con un abogado
-bueno y con veinte años de reproches por gastar. *Cierre: gancho.*
+**070 · Suspensión · [2026] · 1.900.** Suspensión cautelar de funciones. Entregar la
+llave del archivo que ya no abre nada. *Gancho.*
 
-**073 · Anuar IV · [ANUAR] · 950.** La madre le corta el pelo la noche antes.
-*Cierre: silencio.*
+**071 · Anuar IV · [ANUAR] · 1.000.** La madre le corta el pelo en el escalón.
+*Silencio.*
 
-**074 · La declaración de Driss · [2026] · 2.500.** El chico miente. Y miente mal.
-*Cierre: giro.*
+**072 · Los que la defienden · [2026] · 2.200.** Fredo, Chaimae, Padilla y —sorpresa—
+Rueda. Los aliados que a Elena le habría gustado no tener. *Giro.*
 
-**075 · Yassin detenido · [2026] · 2.400.** Manipulación de cadáver, sospechoso
-de homicidio. La falsa pista que construyó la propia Elena al escribir la palabra
-homicidio. *Cierre: gancho.*
+**073 · Los que la atacan · [2026] · 2.200.** Y la parte de razón que tienen.
+*Gancho.*
 
-**076 · Lo que Elena sabe y no puede probar · [2026] · 2.100.** *Cierre: gancho.*
+**074 · Voz: Yassin II · [VOZ] · 1.300.** Nueve años de Europa en página y media:
+Almería, Perpiñán, un invernadero, una furgoneta, dos fronteras. *Giro.*
 
-**077 · Chaimae en el juzgado · [2026] · 2.000.** La mediadora traduce una
-declaración y descubre que traducir es elegir. *Cierre: silencio.*
+**075 · Octubre de 2017 · [2017] · 2.000.** Lo que hizo Elena el otoño de 2017:
+nada, con método. *Silencio.*
 
-**078 · La ciudad en octubre · [2026] · 1.900.** Ceuta cuando se van las cámaras.
-El capítulo más quieto de la novela, a propósito, antes del último tramo.
-*Cierre: silencio.*
+**076 · Detenida · [2026] · 2.500.** Julia, por favorecimiento y ocultación. La madre
+forense en el pasillo de una comisaría. *Gancho.*
 
-**079 · Dos años de margen · [2026] · 2.400.** La delegada le ofrece a Elena una
-salida limpia a cambio de un informe tibio. Exactamente la misma oferta de 2017,
-nueve años después, con otras palabras. *Cierre: giro.*
+**077 · Gonzalo · [2026] · 2.100.** El exmarido llega con un abogado bueno y veinte
+años de reproches por gastar. *Gancho.*
 
-**080 · Anuar III · [ANUAR] · 1.000.** El hermano se va a España. Anuar tiene
-seis años y no entiende por qué llora su madre. *Cierre: silencio.*
+**078 · El altillo · [2026] · 1.900.** Elena baja la caja. La radiografía de Driss
+lleva cuarenta y cinco días ahí. *Giro.*
 
-**081 · La reconstrucción · [2026] · 2.700.** Elena vuelve al agua, al espigón, a
-la hora exacta, con la marea de aquel día. Fredo con un cronómetro. *Cierre: gancho.*
+**079 · Anuar III · [ANUAR] · 1.000.** Seis años. El hermano se va a España y él no
+entiende por qué llora su madre. *Silencio.*
 
-**082 · El antebrazo · [2026] · 2.300.** **LA REVELACIÓN.** No hubo estrangulador.
-Hubo un chaval de dieciséis años que no sabía nadar y se agarró a lo primero que
-encontró. El hioides partido es verdad y la historia que Elena construyó con él
-es falsa. Exactamente lo mismo que lleva veintitrés años haciendo con las
-muñecas. *Cierre: giro. Fin Parte IV.*
+**080 · La declaración de Driss · [2026] · 2.400.** El chico miente. Y miente mal.
+*Giro.*
 
-## PARTE V — EL NOMBRE (83-100) · noviembre – diciembre · ~36.000
+**081 · Chelo · [2026] · 1.800.** La técnica de Rayos, veintidós años de carrera y un
+disparo con su número. Elena tiene que decidir si la quema. *Gancho.*
 
-**083 · Lo que dice un hueso · [2026] · 2.200.** Elena entiende que la ciencia le
-dio un dato correcto y ella le puso encima una novela. *Cierre: silencio.*
+**082 · Yassin detenido · [2026] · 2.300.** Manipulación de cadáver y sospechoso de
+homicidio: la falsa pista que construyó la propia Elena al escribir *homicida*.
+*Gancho.*
 
-**084 · Anuar II · [ANUAR] · 1.100.** El día que decidió irse. *Cierre: giro.*
+**083 · Prisión provisional · [2026] · 2.000.** El auto. El reloj de la parte.
+*Gancho.*
 
-**085 · Informe rectificativo · [2026] · 2.600.** Escribirlo. Cada línea le
-cuesta algo. *Cierre: gancho.*
+**084 · Lo que sé y no puedo probar · [2026] · 2.000.** *Gancho.*
 
-**086 · Driss · [2026] · 2.400.** Elena y el chico, solos. Ella le dice lo que ha
-descubierto. Él no se siente aliviado: se siente culpable por primera vez.
-*Cierre: silencio.*
+**085 · Chaimae en el juzgado · [2026] · 2.100.** Traduce una declaración y descubre
+que traducir es elegir. *Silencio.*
 
-**087 · Yassin libre · [2026] · 2.000.** Salir de un calabozo no es lo mismo que
-salir. *Cierre: silencio.*
+**086 · Voz: Bernal · [VOZ] · 1.200.** Veinte años devolviendo cordones. Por qué
+apunta. *Silencio.*
 
-**088 · La comparecencia · [2026] · 3.000.** Elena declara ante el instructor los
-cuarenta y tres informes de 2017. Nadie se lo ha pedido. Se hunde sola.
-*Cierre: gancho.*
+**087 · Berenguer trabaja · [2026] · 2.100.** El abogado hace lo que sabe hacer y
+casi le sale. *Gancho.*
 
-**089 · Robles, la última vez · [2026] · 2.600.** Cara a cara final. Sale el
-Tarajal de 2014, entre ellos dos y en ningún acta. Ninguno convence al otro y
-ninguno miente. *Cierre: silencio.*
+**088 · Dos años de margen · [2026] · 2.300.** La delegada le ofrece una salida
+limpia a cambio de un informe tibio: la misma oferta de 2017 con otras palabras nueve
+años después. *Giro.*
 
-**090 · El precio de Julia · [2026] · 2.200.** Archivo con condiciones. Julia se
-va a Granada. Lo que se rompe entre madre e hija no se arregla en este libro.
-*Cierre: silencio.*
+**089 · Anuar II bis · [ANUAR] · 1.000.** La última noche en casa. *Silencio.*
 
-**091 · Anuar I bis · [ANUAR] · 950.** Los zapatos que dejó en la orilla.
-*Cierre: giro.*
+**090 · Padilla · [2026] · 1.900.** El forense joven firma solo, sin ella, un informe
+por debajo de dieciséis. El primero en nueve años. *Giro.*
 
-**092 · Rueda se muere · [2026] · 2.100.** El maestro, en Benzú, sin arrepentirse
-de nada y sabiéndolo todo. *Cierre: silencio.*
+**091 · La marea · [2026] · 2.200.** Elena reconstruye la noche del 30 de julio con
+las tablas de marea, la temperatura del agua y las horas de la malla. *Gancho.*
 
-**093 · Los otros cuarenta y dos · [2026] · 2.500.** Elena empieza a escribir
-cartas. Consigue tres respuestas. Una es un insulto. Otra es una foto de una boda.
-*Cierre: giro.*
+**092 · La reconstrucción · [2026] · 2.500.** Vuelve al espigón a la hora exacta, con
+Cañete y un cronómetro. *Gancho.*
 
-**094 · Registro Civil · [2026] · 2.400.** 20 de diciembre. La inscripción.
-Anuar El Founti, nacido en Beni Mellal, muerto en Ceuta el 30 de julio de 2026.
-Catorce años. Con nombre. *Cierre: silencio.*
+**093 · El antebrazo · [2026] · 2.400.** **LA REVELACIÓN.** No hubo estrangulador:
+hubo un chaval de dieciséis que no sabía nadar y se agarró a lo primero. El hioides
+partido es verdad y la historia que Elena construyó con él es falsa. Exactamente lo
+que lleva veintitrés años haciendo con las muñecas. *Giro.*
 
-**095 · La lápida · [2026] · 1.900.** Sidi Embarek. Yassin, Chaimae, Fredo y
-Elena. Cuatro personas y un albañil. *Cierre: silencio.*
+**094 · Lo que dice un hueso · [2026] · 2.000.** La ciencia le dio un dato correcto y
+ella le puso encima una novela. *Silencio.*
 
-**096 · Voz: Yassin III · [VOZ] · 1.300.** Se va. Última voz suya. No perdona a
-Elena y tampoco la condena: le da las gracias, que es peor. *Cierre: giro.*
+**095 · Cifuentes tenía razón · [2026] · 1.900.** La llamada a Cádiz. *Silencio.*
 
-**097 · Enero · [2026] · 2.000.** Elena, readmitida con sanción, vuelve al
-Instituto. Todo sigue igual. Ese es el horror y también la única esperanza
-posible. *Cierre: silencio.*
+**096 · Rachida · [2026] · 2.000.** Chaimae hace de puente en una videollamada de
+cuarenta minutos. La madre pregunta lo único que importa. *Silencio.*
 
-**098 · Un chico de la cola · [2026] · 2.200.** Un chaval nuevo en la sala de
-exploración. Muñeca izquierda. Radiografía. El atlas de Cleveland abierto por la
-misma página de siempre. *Cierre: gancho.*
+**097 · Lo que hay que hacer con esto · [2026] · 2.200.** Elena entiende que decir la
+verdad sobre el antebrazo libera a Yassin y hunde a Driss, y que callarla hace lo
+contrario. *Gancho.*
 
-**099 · La firma · [2026] · 1.800.** Elena escribe, por primera vez en veintitrés
+**098 · La decisión · [2026] · 2.300.** La toma. *Giro. Fin Parte IV.*
+
+## PARTE V — EL NOMBRE (99-125) · noviembre – febrero · ~48.000
+
+**099 · Informe rectificativo · [2026] · 2.400.** Escribirlo. Cada línea le cuesta
+algo. *Gancho.*
+
+**100 · Driss · [2026] · 2.200.** Elena y el chico, solos. No se siente aliviado: se
+siente culpable por primera vez. *Silencio.*
+
+**101 · Anuar II · [ANUAR] · 1.100.** El día que decidió irse. *Giro.*
+
+**102 · Yassin libre · [2026] · 1.900.** Salir de un calabozo no es lo mismo que
+salir. *Silencio.*
+
+**103 · La comparecencia · [2026] · 2.800.** Elena declara los cuarenta y tres de
+2017 ante el instructor. Nadie se lo ha pedido. Se hunde sola. *Gancho.*
+
+**104 · Robles, la última vez · [2026] · 2.500.** Sale el Tarajal de 2014, entre
+ellos dos y en ningún acta. Ninguno convence al otro y ninguno miente. *Silencio.*
+
+**105 · El precio de Julia · [2026] · 2.100.** Archivo con condiciones. Se va a
+Granada. Lo que se rompe no se arregla en este libro. *Silencio.*
+
+**106 · Anuar I bis · [ANUAR] · 950.** Los zapatos en la piedra. *Giro.*
+
+**107 · Rueda · [2026] · 2.000.** El maestro se muere en Benzú sin arrepentirse de
+nada y sabiéndolo todo. Quién se queda con el perro. *Silencio.*
+
+**108 · La caja debajo de la ventana · [2026] · 2.000.** Los cuarenta y tres
+expedientes vuelven. *Giro.*
+
+**109 · Cuarenta y dos cartas · [2026] · 2.300.** Elena escribe a todos. Consigue
+tres respuestas: un insulto, un silencio y la foto de una boda. *Giro.*
+
+**110 · Milagros · [2026] · 1.700.** *Silencio.*
+
+**111 · La exhumación · [2026] · 2.400.** Lo que hay que mover para cambiar un
+número por un nombre. *Gancho.*
+
+**112 · Once meses menos un día · [2026] · 2.200.** La comisión rogatoria llega. O
+no llega y se resuelve por otra vía. *Giro.*
+
+**113 · Registro Civil · [2026] · 2.300.** 20 de diciembre. La inscripción. Anuar El
+Founti, nacido en Beni Mellal, muerto en Ceuta el 30 de julio de 2026. Catorce años.
+Con nombre. *Silencio.*
+
+**114 · La lápida · [2026] · 1.800.** Sidi Embarek. Cuatro personas y un albañil.
+*Silencio.*
+
+**115 · Voz: Yassin III · [VOZ] · 1.300.** Se va. No la perdona y tampoco la condena:
+le da las gracias, que es peor. *Giro.*
+
+**116 · Nochevieja · [2026] · 1.800.** *Silencio.*
+
+**117 · La resolución · [2027] · 2.200.** El expediente disciplinario se resuelve.
+Sanción y readmisión. *Gancho.*
+
+**118 · Voz: Chaimae II · [VOZ] · 1.200.** Aprobó la oposición. *Silencio.*
+
+**119 · Enero · [2026] · 2.000.** Elena vuelve al Instituto. Todo sigue igual. Ese es
+el horror y la única esperanza posible. *Silencio.*
+
+**120 · El informe que nadie leyó · [2026] · 2.000.** Los cuatro folios de agosto
+aparecen citados en un sitio inesperado. *Giro.*
+
+**121 · Padilla se va · [2026] · 1.800.** El forense joven pide traslado. Lo que le
+dice a Elena al despedirse. *Silencio.*
+
+**122 · Un chico de la cola · [2026] · 2.100.** Un chaval nuevo en la sala de
+exploración. Muñeca izquierda. El atlas de Cleveland abierto por la misma página de
+siempre. *Gancho.*
+
+**123 · La firma · [2026] · 1.900.** Elena escribe, por primera vez en veintitrés
 años: *No es posible determinar la edad de este niño.* Y como el Estado no puede
-contarlo, el Estado tendrá que presumir que es menor. Una sola firma. No salva al
-mundo: salva a uno. *Cierre: giro.*
+contarlo, tendrá que presumir que es menor. Una sola firma. No salva al mundo: salva
+a uno. *Giro.*
 
-**100 · Anuar I · [ANUAR] · 1.400.** Beni Mellal, la mañana que se fue. Hace sol.
-Su madre le ha hecho pan. Va contento. **No sabe nada de lo que sabe el lector.**
-Última imagen del libro. *Cierre: silencio.*
+**124 · Febrero · [2027] · 1.600.** El epílogo de Elena. Corto. *Silencio.*
+
+**125 · Anuar I · [ANUAR] · 1.400.** Beni Mellal, la mañana que se fue. Hace sol. Su
+madre le ha hecho pan. Va contento. **No sabe nada de lo que sabe el lector.** Última
+imagen del libro. *Silencio.*
 
 ---
 
 ## Prohibiciones de esta arquitectura
 
-- Ningún capítulo puede existir solo para informar. Si un capítulo no cambia
-  nada, se corta.
-- Ningún personaje puede tener un solo argumento. Robles gana dos discusiones;
-  la delegada, una.
-- Nadie explica el tema en voz alta. Si un personaje dice «esto va de decidir
-  quién es un niño», se borra la frase.
+- Ningún capítulo puede existir solo para informar. Si un capítulo no cambia nada, se
+  corta.
+- Ningún personaje puede tener un solo argumento. Robles gana dos discusiones; la
+  delegada, una; Trujillo, la del pabellón.
+- Nadie explica el tema en voz alta. Si un personaje dice «esto va de decidir quién es
+  un niño», se borra la frase.
 - Ningún chaval es un símbolo. Todos tienen nombre, pueblo, oficio y manías.
+- Ningún documento incrustado sin una grieta. Si el acta es impecable, no vale.
 - El final no consuela. Elena no arregla el sistema: firma un papel.

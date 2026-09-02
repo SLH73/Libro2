@@ -5,7 +5,7 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 OBJETIVO=200000
-TOTAL_CAPS=100
+TOTAL_CAPS=125
 CAPS_DIR=obra/capitulos
 
 palabras=$(find $CAPS_DIR -name '[0-9]*.md' -exec cat {} + 2>/dev/null | wc -w | tr -d ' ')

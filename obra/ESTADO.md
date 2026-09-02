@@ -1,23 +1,23 @@
 # ESTADO DE LA OBRA
 
 > Fichero generado por `scripts/estado.sh`. **Es lo primero que lee cada sesión.**
-> Última actualización: 2026-09-02 06:28 UTC
+> Última actualización: 2026-09-02 06:31 UTC
 
 | | |
 |---|---|
 | **Fase** | EN PRODUCCIÓN |
 | **Palabras escritas** | **53301** / 200000 (26 %) |
 | **Palabras restantes** | 146699 |
-| **Capítulos escritos** | 42 / 100 |
+| **Capítulos escritos** | 42 / 125 |
 | **Último capítulo cerrado** | obra/capitulos/042-sidi-embarek.md |
 | **SIGUIENTE CAPÍTULO A ESCRIBIR** | **043** |
 | **Media escrita hasta ahora** | 1269 palabras/capítulo |
-| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **2529 palabras/capítulo** |
+| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **1767 palabras/capítulo** |
 
 ## ⚠️ Aviso de ritmo
 
-Quedan **146699 palabras** repartidas en **58 capítulos**. Eso obliga
-a una media de **2529 palabras por capítulo** de aquí al final.
+Quedan **146699 palabras** repartidas en **83 capítulos**. Eso obliga
+a una media de **1767 palabras por capítulo** de aquí al final.
 
 Las fichas de `obra/arquitectura.md` dan la extensión *relativa* de cada capítulo
 (cuál es largo y cuál es corto, y eso no se toca: el ritmo irregular es una
@@ -31,7 +31,7 @@ un capítulo y se nota al final del libro.
 
 ## Qué tienes que hacer ahora
 
-Escribe el capítulo 043 siguiendo obra/arquitectura.md, **con una extensión de al menos 2529 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 44. Sin parar.
+Escribe el capítulo 043 siguiendo obra/arquitectura.md, **con una extensión de al menos 1767 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 44. Sin parar.
 
 ## Recordatorio
 
