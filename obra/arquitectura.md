@@ -542,87 +542,104 @@ Elena no puede pagar con su propio dinero. *Gancho.*
 
 **098 · La decisión · [2026] · 2.200.** La toma. *Giro. Fin Parte IV.*
 
-## PARTE V — EL NOMBRE (99-125) · noviembre – febrero · ~48.000
+## PARTE V — EL NOMBRE (99-125) · marzo – junio de 2027 · ~40.000
 
-**099 · Informe rectificativo · [2026] · 2.400.** Escribirlo. Cada línea le cuesta
-algo. *Gancho.*
+> **CORRECCIÓN OBLIGATORIA DE LA PARTE V (informe `editorial-04.md`).** La Parte IV se
+> convirtió en la conciencia de Elena: todos los personajes tenían su escena capital
+> hablando de ella. El libro no va de eso. Del 99 al 125:
+> 1. **Elena hace cosas y las cosas les pasan a otros.** Su interioridad se raciona a
+>    un capítulo de cada cuatro como máximo.
+> 2. **Anuar vuelve: cinco capítulos** (101, 106, 116, 124, 125). Son el mejor
+>    material del libro y también el más limpio de prosa mecánica.
+> 3. **Vuelve el mundo físico**: el cementerio, el mar, la nave, la cocina de Beni
+>    Mellal, el taller de Hamid. Que se toque y se huela.
+> 4. **Julia cierra con una escena, no con un párrafo.**
+> 5. Máximo quince silencios en toda la parte. Cuatro capítulos con el remate dentro
+>    de un párrafo largo, sin aislar. Dos listas numeradas como mucho.
+> 6. **El 123 es la firma de Elena y ahí desaparece. El 124 y el 125 son de otros.**
 
-**100 · Driss · [2026] · 2.200.** Elena y el chico, solos. No se siente aliviado: se
-siente culpable por primera vez. *Silencio.*
+**099 · Libertad provisional · [2027] · 2.200.** Con el complementario y el ADN, el
+juez acuerda la libertad. Y la Delegación tiene cuarenta y ocho horas. *Gancho.*
+
+**100 · Los doce días · [2027] · 2.000.** Del 3 al 15 de marzo. Dónde duerme un
+hombre al que no pueden expulsar todavía y no tiene dónde ir. *Silencio.*
 
 **101 · Anuar II · [ANUAR] · 1.100.** El día que decidió irse. *Giro.*
 
-**102 · Yassin libre · [2026] · 1.900.** Salir de un calabozo no es lo mismo que
-salir. *Silencio.*
+**102 · Driss declara · [2027] · 2.300.** Fiscalía de Menores, con abogado, intérprete
+y educador. Cuenta lo que se calló cuatro veces. *Silencio.*
 
-**103 · La comparecencia · [2026] · 2.800.** Elena declara los cuarenta y tres de
-2017 ante el instructor. Nadie se lo ha pedido. Se hunde sola. *Gancho.*
+**103 · La comparecencia · [2027] · 2.600.** Expediente disciplinario ya incoado.
+Elena entrega la versión C: la radiografía ilegal, Chelo, los ochenta y dos días.
+Nadie se lo ha pedido. *Gancho.*
 
-**104 · Robles, la última vez · [2026] · 2.500.** Sale el Tarajal de 2014, entre
-ellos dos y en ningún acta. Ninguno convence al otro y ninguno miente. *Silencio.*
+**104 · Robles, la última vez · [2027] · 2.400.** Sale el Tarajal de 2014 entre ellos
+dos y en ningún acta. Ninguno convence al otro y ninguno miente. *Silencio.*
 
-**105 · El precio de Julia · [2026] · 2.100.** Archivo con condiciones. Se va a
-Granada. Lo que se rompe no se arregla en este libro. *Silencio.*
+**105 · Julia · [2027] · 2.100.** Archivo con condiciones. La escena que cierra a la
+hija: la despedida en el puerto y lo que no se dicen. *Silencio.*
 
 **106 · Anuar I bis · [ANUAR] · 950.** Los zapatos en la piedra. *Giro.*
 
-**107 · Rueda · [2026] · 2.000.** El maestro se muere en Benzú sin arrepentirse de
-nada y sabiéndolo todo. Quién se queda con el perro. *Silencio.*
+**107 · Benzú · [2027] · 2.200.** Rueda se muere sin arrepentirse de nada y sabiéndolo
+todo. Quién se queda con Sultán. *Silencio.*
 
-**108 · La caja debajo de la ventana · [2026] · 2.000.** Los cuarenta y tres
-expedientes vuelven. *Giro.*
+**108 · La caja de debajo de la ventana · [2027] · 1.900.** Los cuarenta y tres
+expedientes vuelven al archivo. *Giro.*
 
-**109 · Cuarenta y dos cartas · [2026] · 2.300.** Elena escribe a todos. Consigue
-tres respuestas: un insulto, un silencio y la foto de una boda. *Giro.*
+**109 · Cuarenta y dos cartas · [2027] · 2.300.** Elena escribe a todos. Tres
+respuestas: un insulto, un silencio y la foto de una boda. *Giro.*
 
-**110 · Milagros · [2026] · 1.700.** *Silencio.*
+**110 · Milagros · [2027] · 1.600.** *Silencio.*
 
-**111 · La exhumación · [2026] · 2.400.** Lo que hay que mover para cambiar un
-número por un nombre. *Gancho.*
+**111 · La placa · [2027] · 2.000.** Lo que hay que mover para cambiar un número por
+un nombre en una piedra. Hicham, el albañil, el presupuesto. *Gancho.*
 
-**112 · Once meses menos un día · [2026] · 2.200.** La comisión rogatoria llega. O
-no llega y se resuelve por otra vía. *Giro.*
+**112 · Beni Mellal · [2027] · 2.400.** **Mundo físico obligatorio.** Alguien va: el
+escalón sin barrer, el taller de Hamid, los guantes en el cajón, los trescientos
+dírhams debajo del colchón. *Silencio.*
 
-**113 · Registro Civil · [2026] · 2.300.** 20 de diciembre. La inscripción. Anuar El
-Founti, nacido en Beni Mellal, muerto en Ceuta el 30 de julio de 2026. Catorce años.
-Con nombre. *Silencio.*
+**113 · Registro Civil · [2027] · 2.400.** La ratificación y la inscripción. Anuar El
+Founti Ouhaddou, nacido en Beni Mellal el 4 de noviembre de 2011, fallecido en Ceuta
+el 30 de julio de 2026. Catorce años. *Silencio.*
 
-**114 · La lápida · [2026] · 1.800.** Sidi Embarek. Cuatro personas y un albañil.
+**114 · Sidi Embarek · [2027] · 1.800.** La lápida. Cinco personas y un albañil.
 *Silencio.*
 
 **115 · Voz: Yassin III · [VOZ] · 1.300.** Se va. No la perdona y tampoco la condena:
 le da las gracias, que es peor. *Giro.*
 
-**116 · Nochevieja · [2026] · 1.800.** *Silencio.*
+**116 · Anuar · [ANUAR] · 1.000.** La balsa de riego de Aït Ourir. Aprender a nadar.
+*Silencio.*
 
-**117 · La resolución · [2027] · 2.200.** El expediente disciplinario se resuelve.
-Sanción y readmisión. *Gancho.*
+**117 · La resolución · [2027] · 2.100.** El expediente disciplinario se resuelve.
+*Gancho.*
 
-**118 · Voz: Chaimae II · [VOZ] · 1.200.** Aprobó la oposición. *Silencio.*
+**118 · Voz: Chaimae II · [VOZ] · 1.200.** Aprobó. Y lo que ha decidido hacer con
+eso. *Silencio.*
 
-**119 · Enero · [2026] · 2.000.** Elena vuelve al Instituto. Todo sigue igual. Ese es
-el horror y la única esperanza posible. *Silencio.*
+**119 · Loma Colmenar, un año después · [2027] · 2.000.** La nave. Quiénes quedan.
+*Silencio.*
 
-**120 · El informe que nadie leyó · [2026] · 2.000.** Los cuatro folios de agosto
-aparecen citados en un sitio inesperado. *Giro.*
+**120 · El informe que nadie leyó · [2028] · 1.900.** Los cuatro folios de agosto
+aparecen citados donde no se esperaba. *Giro.*
 
-**121 · Padilla se va · [2026] · 1.800.** El forense joven pide traslado. Lo que le
-dice a Elena al despedirse. *Silencio.*
+**121 · Padilla · [2027] · 1.800.** Pide traslado. Lo que le dice al despedirse.
+*Silencio.*
 
-**122 · Un chico de la cola · [2026] · 2.100.** Un chaval nuevo en la sala de
-exploración. Muñeca izquierda. El atlas de Cleveland abierto por la misma página de
-siempre. *Gancho.*
+**122 · Un chico de la cola · [2027] · 2.000.** Sala de exploración. Muñeca izquierda.
+El atlas abierto por la misma página. *Gancho.*
 
-**123 · La firma · [2026] · 1.900.** Elena escribe, por primera vez en veintitrés
-años: *No es posible determinar la edad de este niño.* Y como el Estado no puede
-contarlo, tendrá que presumir que es menor. Una sola firma. No salva al mundo: salva
-a uno. *Giro.*
+**123 · La firma · [2027] · 1.800.** *No es posible determinar la edad de este niño.*
+Y como el Estado no puede contarlo, tendrá que presumir que es menor. Una firma. No
+salva al mundo: salva a uno. **Aquí desaparece Elena del libro.** *Giro.*
 
-**124 · Febrero · [2027] · 1.600.** El epílogo de Elena. Corto. *Silencio.*
+**124 · Los que cuentan · [2027] · 1.700.** Bernal, Hicham, Yeray y sus cuadernos. El
+libro se despide de los que apuntaban. *Silencio.*
 
 **125 · Anuar I · [ANUAR] · 1.400.** Beni Mellal, la mañana que se fue. Hace sol. Su
-madre le ha hecho pan. Va contento. **No sabe nada de lo que sabe el lector.** Última
-imagen del libro. *Silencio.*
+madre le ha hecho pan. Va contento. **No sabe nada de lo que sabe el lector.**
+*Silencio.*
 
 ---
 
