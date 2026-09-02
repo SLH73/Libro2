@@ -26,13 +26,17 @@ Las cartas eran todas la misma y las escribió todas a mano.
 
 Cuatro párrafos.
 
-En el primero decía quién era y qué había firmado y cuándo, con el número de expediente y la fecha.
+El primero era el fácil: quién era, qué había firmado, cuándo, el número de expediente y la fecha. Ése lo tenía escrito de memoria a la tercera carta.
 
-En el segundo decía que el número que ella había escrito en la casilla no se sostenía y por qué, y decía la palabra *me equivoqué* sin adornarla y sin explicarla.
+El segundo decía que el número de la casilla no se sostenía y por qué, y llevaba dentro la palabra *me equivoqué*, sin adornar y sin explicar.
 
-En el tercero decía que no pedía nada, que no había nada que ella pudiera devolver y que no escribía para sentirse mejor, aunque probablemente también.
+Y luego estaba el tercero.
 
-Y en el cuarto decía que si querían escribirle podían, y que si no querían no pasaba nada, y ponía una dirección postal, un correo electrónico y un teléfono.
+El tercero le costaba media hora y a veces no le salía y dejaba la carta a medias y la terminaba al día siguiente, porque en el tercero tenía que decir que no pedía nada, que no había nada que ella pudiera devolver y que no escribía para sentirse mejor; y esa última parte la tachó en cuatro cartas y la volvió a poner, porque era mentira y ponerla siendo mentira le pareció menos indecente que quitarla.
+
+Al final acabó escribiendo: *aunque probablemente también*.
+
+Del cuarto no se acuerda casi. Es el de la dirección postal, el correo electrónico y el teléfono, y lo copiaba ya con la mano suelta, como se copia un remite.
 
 *
 

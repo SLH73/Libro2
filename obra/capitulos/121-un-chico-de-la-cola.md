@@ -100,6 +100,8 @@ El intérprete iba los martes y los viernes.
 
 Los lunes no había, porque el contrato con la empresa adjudicataria preveía dos jornadas semanales por centro y los lunes eran para el juzgado. De modo que los lunes se traducía como se podía: con el poco español del chaval, con el poco árabe de Bernal —que era el de la pescadería de su padre, cuarenta años de comprarle el pescado a gente de Castillejos—, y con las manos.
 
+El impreso pregunta por orden y hay que ir por orden, porque si uno se salta un apartado el sistema lo devuelve.
+
 —Ayoub.
 
 —Ayoub Bouhlal —dijo el chico.
@@ -122,13 +124,63 @@ El chico dijo un número. Bernal no tuvo que traducirlo.
 
 —¿Quince cumplidos?
 
-Ahí sí hubo que traducir, y la traducción tardó, y volvió mal, y hubo que volver a preguntarlo de otra manera, porque el chico no sabía el día. Sabía el año, que se lo había dicho su madre. El mes lo situaba después de la siega. El día no existía porque en su casa nunca había existido: en la partida del registro, si es que había partida, pondría lo que pusiera el funcionario que la extendió cuando alguien fue a hacerla, que pudo ser tres años después.
+El chico miró a Bernal. Bernal se lo dijo. El chico contestó tres o cuatro palabras y Bernal se quedó parado.
 
-—Después de la siega —repitió Elena.
+—No lo pillo, doctora.
 
-—Eso dice.
+—Vuelve a preguntárselo.
 
-Lo apuntó tal cual, en el apartado de manifestaciones del interesado, con esas cinco palabras, que en veinticinco años era la primera vez que las escribía.
+Bernal se lo preguntó de otra manera. El chico contestó lo mismo, más despacio, señalándose el pecho con el pulgar, y después señaló hacia la ventana con la mano abierta, y después hizo un gesto con el brazo de lado a lado, como quien siega.
+
+—Dice que no.
+
+—¿Que no tiene quince?
+
+—Que no sabe si cumplidos.
+
+—A ver, Ricardo. Pregúntale cuándo cumple años.
+
+Bernal se lo preguntó.
+
+Y ahí el chico se quedó callado, y fue un silencio distinto de los otros dos, porque los otros dos eran de no entender la pregunta y éste era de haberla entendido.
+
+—Dice que su madre dice después de la siega.
+
+—¿Qué siega?
+
+—La de allí. La del trigo. —Bernal se rascó la nuca—. Que es en junio o en julio, doctora. Depende del año y depende de la altura.
+
+—¿Y el día?
+
+Bernal se lo preguntó dos veces. La segunda con las manos, contando con los dedos.
+
+—Que el día no.
+
+*
+
+Elena dejó el bolígrafo.
+
+—Ricardo, dile una cosa. Dile que no pasa nada, que no le estoy pidiendo cuentas, que hay mucha gente que no sabe el día.
+
+Bernal se lo dijo.
+
+Y el chico contestó una frase larga, la más larga que había dicho desde que entró, y se le fue la voz hacia arriba al final, que en cualquier idioma es una pregunta.
+
+—Que si eso es malo.
+
+Elena tardó en contestar.
+
+—No —dijo—. Dile que no es malo.
+
+Y mientras Bernal se lo decía y el chico asentía sin creérselo del todo, ella estuvo pensando que aquello era mentira: que en aquel edificio, en aquel impreso y en aquella casilla, no saber el día es exactamente lo que sale caro, y que se lo iba a cobrar el sistema entero dentro de una hora y media.
+
+*
+
+El resto lo apuntó tal cual.
+
+En el apartado de manifestaciones del interesado escribió que decía tener quince años, que no conocía el día ni el mes y que situaba su nacimiento *después de la siega*.
+
+Cinco palabras que en veinticinco años era la primera vez que escribía.
 
 *
 

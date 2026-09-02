@@ -1,23 +1,23 @@
 # ESTADO DE LA OBRA
 
 > Fichero generado por `scripts/estado.sh`. **Es lo primero que lee cada sesión.**
-> Última actualización: 2026-09-02 21:14 UTC
+> Última actualización: 2026-09-02 21:20 UTC
 
 | | |
 |---|---|
 | **Fase** | EN PRODUCCIÓN |
-| **Palabras escritas** | **142271** / 155000 (91 %) |
-| **Palabras restantes** | 12729 |
+| **Palabras escritas** | **142600** / 155000 (92 %) |
+| **Palabras restantes** | 12400 |
 | **Capítulos escritos** | 125 / 125 |
 | **Último capítulo cerrado** | obra/capitulos/125-anuar-i.md |
 | **SIGUIENTE CAPÍTULO A ESCRIBIR** | **126** |
-| **Media escrita hasta ahora** | 1138 palabras/capítulo |
-| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **12729 palabras/capítulo** |
+| **Media escrita hasta ahora** | 1140 palabras/capítulo |
+| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **12400 palabras/capítulo** |
 
 ## Ritmo
 
-Quedan **12729 palabras** en **1 capítulos**: una media de
-**12729 palabras por capítulo**, que es el ritmo natural de esta novela y
+Quedan **12400 palabras** en **1 capítulos**: una media de
+**12400 palabras por capítulo**, que es el ritmo natural de esta novela y
 no hay que forzarlo en ninguna dirección.
 
 **La extensión la manda la escena, no la cuenta.** Las fichas de
@@ -33,7 +33,7 @@ exactamente por donde empieza a sonar a manual.
 
 ## Qué tienes que hacer ahora
 
-Escribe el capítulo 126 siguiendo obra/arquitectura.md, **con una extensión de al menos 12729 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 127. Sin parar.
+Escribe el capítulo 126 siguiendo obra/arquitectura.md, **con una extensión de al menos 12400 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 127. Sin parar.
 
 ## Recordatorio
 

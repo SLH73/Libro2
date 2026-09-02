@@ -76,11 +76,17 @@ Hicham cumplió sesenta y cinco años en 2030 y se le acabó el contrato.
 
 No hay relevo. El puesto no está en ninguna relación de puestos de trabajo, no lo cubre la Ciudad Autónoma, lo paga la comunidad con lo que se recoge, y no se ha presentado nadie. De modo que en el verano de 2030 Hicham hizo lo único que se le ocurrió, que fue sentarse tres tardes con el hijo mayor de su hermana, un chico de veintidós años que trabaja en una tienda de móviles y que no tiene ningún interés en los cementerios, y enseñarle el cuaderno renglón por renglón.
 
-—Esto de aquí es una persona.
+—Esto de aquí es el ciprés.
 
 —Ya.
 
-—No. —Hicham le puso el dedo encima del renglón—. Escúchame lo que te digo. Esto de aquí es una persona. Y el día que alguien venga a preguntar por ella, no va a venir el día que a ti te venga bien.
+—Y esto son pasos. Míos. Que yo tengo el pie del cuarenta y dos y tú lo tienes más grande, así que vas a tener que contarlos otra vez y apuntarlos a tu manera. —Hicham le puso el dedo encima del renglón y se lo dejó ahí—. Y esto no lo copies a máquina, que se pierde. Esto se copia a mano cada quince años, cuando se moje.
+
+El sobrino miró el renglón.
+
+—¿Y si viene alguien y yo estoy en la tienda?
+
+—Pues cierras la tienda.
 
 *
 
@@ -116,8 +122,8 @@ Los cuadernos no salvaron a nadie.
 
 Cuatro cuadernos de hule con trescientas noventa y una devoluciones de efectos, tres cuadernos de contabilidad con las sepulturas de beneficencia de un cementerio de la parte alta y once cuadernos de espiral con cuatro mil ciento sesenta nombres apuntados en una playa no cambiaron ni una resolución, ni una cifra, ni una sola de las catorce comparecencias.
 
-Lo único que hicieron fue estar ahí el día que alguien preguntó.
+Veinticuatro años. Treinta y ocho años. Dos meses.
 
-Que es, cuando se mira bien, lo contrario de un archivo. Un archivo lo monta el que sabe lo que va a necesitar. Los cuadernos los llevaban tres hombres que no sabían nada, que no esperaban nada y que no le pidieron permiso a nadie, y que apuntaron durante veinticuatro años, treinta y ocho años y dos meses, respectivamente, por si acaso.
+Por si acaso.
 
 Por si venía alguien.
