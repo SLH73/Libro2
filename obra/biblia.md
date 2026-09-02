@@ -534,11 +534,15 @@ radiografía ilegal y Chelo (81 → 94) · las tres conversaciones de Robles en 
    octubre, un lunes» con once años y ocho meses, incompatible con la fecha de
    nacimiento 4-11-2011. Cambiado a **«el diez de julio, un lunes»** (10-VII-2023
    fue lunes y da 11 años y 8 meses exactos).
-2. **Cap 66 · pendiente de maquetación.** El capítulo panorámico llega hasta el 20
-   de noviembre de 2026 y va colocado *antes* de la comparecencia del 10 de
-   noviembre. Es un interludio deliberado, pero necesita marca tipográfica en
-   maqueta (versalita, filete o cambio de cuerpo) para que el lector no lo lea como
-   un salto de continuidad.
+2. **Cap 66 · resuelto en la sesión de cierre.** El capítulo panorámico llega hasta el
+   20 de noviembre de 2026 —y hasta enero de 2028 en su última línea— y va colocado
+   *antes* de la comparecencia del 10 de noviembre. Es un interludio deliberado de
+   vasos comunicantes y no se recoloca: mover el capítulo después del 69 destruiría la
+   tensión de víspera que construye. La solución adoptada es la del epígrafe: pasa de
+   fecha (*Noviembre de 2026*) a marca de interludio (***Noviembre de 2026, y lo que se
+   supo después***), que es la convención que ya usan los capítulos [VOZ]. Con eso el
+   lector no lo lee como salto de continuidad y no hace falta marca tipográfica
+   adicional en maqueta.
 3. **Orden de los capítulos [VOZ].** 117 (mayo de 2028) va antes de 118 (30 de julio
    de 2027) y 119 (enero de 2028). Es la convención establecida desde el principio:
    los capítulos [VOZ] flotan fuera de la línea temporal. Verificar en maqueta que

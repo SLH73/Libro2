@@ -1,6 +1,6 @@
 ## 66. Los que quedan
 
-*Noviembre de 2026*
+*Noviembre de 2026, y lo que se supo después*
 
 En noviembre se fueron las cámaras.
 

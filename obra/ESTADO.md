@@ -1,13 +1,13 @@
 # ESTADO DE LA OBRA
 
 > Fichero generado por `scripts/estado.sh`. **Es lo primero que lee cada sesión.**
-> Última actualización: 2026-09-02 21:26 UTC
+> Última actualización: 2026-09-02 21:28 UTC
 
 | | |
 |---|---|
 | **Fase** | TERMINADA — pasar a cierre editorial y desactivar la tarea programada |
-| **Palabras escritas** | **144020** / 155000 (92 %) |
-| **Palabras restantes** | 10980 |
+| **Palabras escritas** | **144026** / 155000 (92 %) |
+| **Palabras restantes** | 10974 |
 | **Capítulos escritos** | 126 / 126 |
 | **Último capítulo cerrado** | obra/capitulos/126-anuar-i.md |
 | **Siguiente capítulo a escribir** | ninguno: la novela está completa |
@@ -16,7 +16,7 @@
 
 ## Ritmo
 
-La novela está cerrada en 126 capítulos y 144020 palabras. El objetivo nominal
+La novela está cerrada en 126 capítulos y 144026 palabras. El objetivo nominal
 eran 155000; el dictamen de cierre (`obra/informes/editorial-05.md`, §6) recomienda
 **no rellenar** para alcanzarlo. La diferencia se gana, si se gana, convirtiendo
 resúmenes en escena —nunca alargando.
