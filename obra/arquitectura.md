@@ -581,8 +581,13 @@ hija: la despedida en el puerto y lo que no se dicen. *Silencio.*
 
 **106 · Anuar I bis · [ANUAR] · 950.** Los zapatos en la piedra. *Giro.*
 
-**107 · Benzú · [2027] · 2.200.** Rueda se muere sin arrepentirse de nada y sabiéndolo
-todo. Quién se queda con Sultán. *Silencio.*
+**107 · Quince de marzo · [2027] · 2.200.** **La ratificación del promotor**, cinco
+minutos de trámite ante don Vicente Olmedo, que es lo que ha costado ocho meses.
+(Reordenado: la ficha 113 no es la ratificación sino la **resolución** del expediente,
+que el encargado dicta semanas después.) *Silencio.*
+
+**107 bis / dentro del 108 · Benzú.** Rueda se muere sin arrepentirse de nada y
+sabiéndolo todo. Quién se queda con Sultán.
 
 **108 · La caja de debajo de la ventana · [2027] · 1.900.** Los cuarenta y tres
 expedientes vuelven al archivo. *Giro.*
