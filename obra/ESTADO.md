@@ -1,7 +1,7 @@
 # ESTADO DE LA OBRA
 
 > Fichero generado por `scripts/estado.sh`. **Es lo primero que lee cada sesión.**
-> Última actualización: 2026-09-02 16:35 UTC
+> Última actualización: 2026-09-02 16:57 UTC
 
 | | |
 |---|---|
