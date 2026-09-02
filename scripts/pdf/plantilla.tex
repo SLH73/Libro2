@@ -1,0 +1,158 @@
+\documentclass[11pt,twoside,openany]{book}
+
+% ---------- caja y papel: 15 x 23 cm, formato comercial español ----------
+\usepackage[
+  paperwidth=15cm, paperheight=23cm,
+  inner=20mm, outer=17mm, top=19mm, bottom=21mm,
+  headsep=7mm, footskip=11mm
+]{geometry}
+
+% ---------- tipografía ----------
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella}[
+  Numbers = OldStyle,
+  Ligatures = TeX,
+  SmallCapsFeatures = {LetterSpace=6}
+]
+\newfontfamily\sansfont{TeX Gyre Heros}[Ligatures=TeX]
+
+% xcolor, graphicx e hyperref van ANTES que polyglossia: bidi lo exige
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
+
+\usepackage{polyglossia}
+\setmainlanguage{spanish}
+
+% El manuscrito tiene una sola tirada en árabe (el nombre del grupo de Facebook
+% del cap. 30). Pagella no tiene el alfabeto: se compone con FreeSerif y se le
+% fija la dirección a mano, que es más barato que arrastrar bidi por 126 caps.
+\TeXXeTstate=1
+\newfontfamily\arabefont{FreeSerif}[Script=Arabic]
+\newcommand{\textarabe}[1]{{\normalfont\arabefont\beginR #1\endR}}
+
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{ragged2e}
+\usepackage{emptypage}
+
+\definecolor{apagado}{HTML}{6B6459}
+
+% ---------- ritmo de página ----------
+\linespread{1.10}
+\setlength{\parindent}{1.25em}
+\setlength{\emergencystretch}{2em}
+\clubpenalty=9000
+\widowpenalty=9000
+\displaywidowpenalty=9000
+\brokenpenalty=9000
+\hyphenpenalty=200
+\tolerance=1200
+\raggedbottom
+
+% ---------- cornisas ----------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[LE]{\footnotesize\scshape\color{apagado} la edad de los huesos}
+\fancyhead[RO]{\footnotesize\scshape\color{apagado} \nouppercase{\leftmark}}
+\fancyfoot[C]{\footnotesize\color{apagado}\thepage}
+\fancypagestyle{plain}{\fancyhf{}\renewcommand{\headrulewidth}{0pt}%
+  \fancyfoot[C]{\footnotesize\color{apagado}\thepage}}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+
+% ---------- portadillas de parte ----------
+\titleformat{\part}[display]
+  {\normalfont\centering\thispagestyle{empty}\vspace*{0.28\textheight}}
+  {}{0pt}
+  {\Large\scshape\color{black}}
+\titlespacing*{\part}{0pt}{0pt}{0pt}
+% las portadillas de parte, siempre en página impar
+\let\origpart\part
+\renewcommand{\part}[1]{\cleardoublepage\origpart{#1}}
+
+% ---------- aperturas de capítulo ----------
+\titleformat{\chapter}[display]
+  {\normalfont\centering}
+  {\normalsize\color{apagado}\thechapter}
+  {14pt}
+  {\large}
+\titlespacing*{\chapter}{0pt}{0.14\textheight}{30pt}
+
+% ---------- primer párrafo sin sangrar tras un blanco ----------
+\makeatletter
+\newcommand{\sinsangria}{\par\@afterindentfalse\@afterheading}
+\makeatother
+
+% ---------- epígrafe (la fecha o la marca de línea) ----------
+\newenvironment{epigrafe}
+  {\par\vspace{-12pt}\begin{center}\itshape\small\color{apagado}}
+  {\end{center}\vspace{2pt}\sinsangria}
+
+% ---------- separador de escena ----------
+\newcommand{\escena}{%
+  \par\vspace{9pt}%
+  {\centering\color{apagado}\small\textasteriskcentered\par}%
+  \vspace{7pt}\sinsangria}
+
+% ---------- documentos citados ----------
+\renewenvironment{quote}
+  {\par\vspace{6pt}\begin{list}{}{%
+     \setlength{\leftmargin}{1.6em}\setlength{\rightmargin}{1.6em}%
+     \setlength{\parsep}{4pt}\setlength{\itemsep}{0pt}}\item\relax\small}
+  {\end{list}\vspace{6pt}\noindent\ignorespacesafterend}
+
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{0}
+
+\begin{document}
+
+% ---------- portada ----------
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.20\textheight}
+{\Huge\scshape la edad\par}
+\vspace{10pt}
+{\Large\itshape de los\par}
+\vspace{10pt}
+{\Huge\scshape huesos\par}
+\vspace{30pt}
+\rule{45pt}{0.5pt}\par
+\vspace{40pt}
+{\large\scshape\ Lamani\par}
+\end{center}
+\cleardoublepage
+
+% ---------- créditos ----------
+\thispagestyle{empty}
+\null\vfill
+\begin{center}
+\small
+\textsc{la edad de los huesos}\par
+\vspace{4pt}
+Lamani\par
+\vspace{18pt}
+\color{apagado}
+Primera edición, 2026\par
+\vspace{10pt}
+Todos los personajes de esta novela son ficticios.\par
+Cualquier parecido con personas reales es pura coincidencia.\par
+\vspace{10pt}
+© Lamani\par
+\vspace{10pt}
+Compuesto en TeX Gyre Pagella\par
+\end{center}
+\vfill
+\cleardoublepage
+
+\frontmatter
+\pagestyle{empty}
+\cleardoublepage
+
+\mainmatter
+\pagestyle{fancy}
+
+$body$
+
+\end{document}

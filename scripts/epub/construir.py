@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Construye el fuente Markdown que pandoc convierte en EPUB.
+"""Construye el fuente Markdown que pandoc convierte en EPUB o en PDF.
+
+Uso:  python3 scripts/epub/construir.py [epub|latex]
 
 Transformaciones respecto de los ficheros de obra/capitulos/:
   · «## 12. Greulich y Pyle»  ->  h2 con el número en una línea aparte
@@ -9,13 +11,17 @@ Todo lo demás (raya de diálogo, cursivas, negritas, citas) pasa tal cual.
 """
 import glob, os, re, sys
 
-SALIDA = "obra/epub/fuente.md"
+FORMATO = sys.argv[1] if len(sys.argv) > 1 else "epub"
+if FORMATO not in ("epub", "latex"):
+    sys.exit("formato: epub | latex")
+SALIDA = "obra/epub/fuente.md" if FORMATO == "epub" else "obra/pdf/fuente.md"
 ficheros = sorted(glob.glob("obra/capitulos/[0-9]*.md"))
 if not ficheros:
     sys.exit("no hay capítulos en obra/capitulos/")
 
 out = []
 capitulos = 0
+sin_sangria = False   # el párrafo que sigue a un epígrafe o a un blanco va a caja
 
 for f in ficheros:
     lineas = open(f, encoding="utf-8").read().rstrip("\n").split("\n")
@@ -25,7 +31,7 @@ for f in ficheros:
 
         # portadilla de parte
         if l.startswith("# PARTE"):
-            out += ["", l.replace("# ", "# ", 1), ""]
+            out += ["", l, ""]
             i += 1
             continue
 
@@ -34,7 +40,10 @@ for f in ficheros:
         if m:
             capitulos += 1
             num, titulo = m.group(1), m.group(2).strip()
-            out += ["", f'## <span class="numero">{num}</span><span class="sep"> · </span>{titulo}', ""]
+            if FORMATO == "epub":
+                out += ["", f'## <span class="numero">{num}</span><span class="sep"> · </span>{titulo}', ""]
+            else:
+                out += ["", f"## {titulo}", ""]
             i += 1
             # epígrafe: primera línea no vacía si va entre asteriscos
             j = i
@@ -43,13 +52,20 @@ for f in ficheros:
             if j < len(lineas):
                 e = re.match(r"^\*(.+)\*$", lineas[j].strip())
                 if e and not lineas[j].strip().startswith("**"):
-                    out += [f'<p class="epigrafe">{e.group(1)}</p>', ""]
+                    epi = e.group(1)
+                    if FORMATO == "epub":
+                        out += [f'<p class="epigrafe">{epi}</p>', ""]
+                    else:
+                        out += ["\\begin{epigrafe}", epi, "\\end{epigrafe}", ""]
+                        sin_sangria = True
                     i = j + 1
             continue
 
         # separador de escena
         if l.strip() == "*":
-            out += ["", '<p class="separador">✳</p>', ""]
+            out += ["", '<p class="separador">✳</p>' if FORMATO == "epub" else "\\escena{}", ""]
+            if FORMATO == "latex":
+                sin_sangria = True
             i += 1
             continue
 
@@ -60,6 +76,15 @@ for f in ficheros:
             if i + 1 < len(lineas) and lineas[i + 1].strip():
                 l = l + "  "
 
+        # el árabe necesita otra fuente en LaTeX (Pagella no lo tiene)
+        if FORMATO == "latex":
+            l = re.sub(r"[\u0600-\u06FF\u0750-\u077F]+(?:\s+[\u0600-\u06FF\u0750-\u077F]+)*",
+                       lambda m: "\\textarabe{" + m.group(0) + "}", l)
+
+        if sin_sangria and l.strip():
+            l = "\\noindent " + l
+            sin_sangria = False
+
         out.append(l)
         i += 1
 
@@ -67,6 +92,6 @@ for f in ficheros:
 
 texto = "\n".join(out)
 texto = re.sub(r"\n{3,}", "\n\n", texto)
-os.makedirs("obra/epub", exist_ok=True)
+os.makedirs(os.path.dirname(SALIDA), exist_ok=True)
 open(SALIDA, "w", encoding="utf-8").write(texto)
 print(f"{SALIDA}: {capitulos} capítulos, {len(texto.split())} palabras")
