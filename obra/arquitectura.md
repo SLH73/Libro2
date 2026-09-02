@@ -204,49 +204,81 @@ ahora quieren los pabellones. Nadie miente y todos tienen razón. *Cierre: ganch
 Robles. **Obligatorio que la gane.** Elena sale sin argumentos y sabiendo que él
 no está equivocado. *Cierre: silencio.*
 
-**030 · Anuar IX · [ANUAR] · 1.100.** Fnideq. El grupo de Facebook. «España ha
-abierto la frontera.» Se lo cree todo el mundo porque todo el mundo se lo cree.
-*Cierre: giro.*
+**030 · Anuar IX · [ANUAR] · 1.100.** Fnideq. La calle llena como en una feria.
+El grupo de Facebook, el vídeo de la carretera, «España ha abierto la frontera».
+Se lo cree todo el mundo porque se lo cree todo el mundo. *Cierre: giro.*
 
-**031 · Tú los cuentas · [2026] · 2.200.** La pelea. Julia: «Tú los cuentas, yo
-los tapo.» *Cierre: gancho.*
-
-**032 · Benzú · [2026] · 2.500.** Marcial Rueda, jubilado, con un perro y una
-casa mirando a Marruecos. La primera visita. No suelta nada y lo suelta todo.
+**031 · Tú los cuentas · [2026] · 2.300.** La pelea. Julia le echa en cara que
+mide muñecas; Elena tiene en el altillo una placa ilegal de la muñeca de Driss y
+no se lo dice. La discusión que se pierde por lo que uno se calla.
 *Cierre: gancho.*
 
-**033 · El chico de quince años · [2017] · 2.700.** Elena conoce a Yassin en
-2017. Escena capital: lo mira, sabe que tiene quince años, y firma diecisiete.
-Sin coacción. Nadie en la habitación. *Cierre: giro.*
+**032 · Benzú · [2026] · 2.600.** Marcial Rueda, jubilado, con el perro Sultán y
+una casa mirando a Marruecos. Elena va a preguntarle por la carpeta vacía del
+tercer trimestre de 2017 y por la llave del archivo que devolvió en 2019. No
+suelta nada y lo suelta todo. *Cierre: gancho.*
 
-**034 · Voz: Chaimae · [VOZ] · 1.300.** Primera persona. Nacer en Ceuta, ser de
-Ceuta y que te pregunten de dónde eres de verdad. *Cierre: silencio.*
+**033 · El chico de quince años · [2017] · 2.900.** **El 4 de agosto de 2017
+entero**, de las ocho de la mañana a las seis y media de la tarde: los cuatro
+informes, el último de ellos el 2017/0431-E. La exploración de Yassin contada
+minuto a minuto. Ella lo mira, sabe que tiene quince años y escribe diecisiete.
+Sin coacción y sin nadie en la habitación. *Cierre: giro.*
 
-**035 · La aritmética imposible · [2026] · 2.200.** 1.898 identificados. Unos
-4.000 sin identificar. Los números no pueden ser los dos verdad. *Cierre: gancho.*
+**034 · Voz: Chaimae · [VOZ] · 1.300.** Primera persona. Nacer aquí, ser de aquí,
+y que te pregunten de dónde eres de verdad. Y lo que se siente traduciendo para
+una mujer que decide edades. *Cierre: silencio.*
 
-**036 · Gonzalo · [2026] · 1.900.** El exmarido llama desde Madrid. Quiere sacar
-a Julia de Ceuta. Tiene razón y por eso es insoportable. *Cierre: silencio.*
+**035 · La aritmética imposible · [2026] · 2.400.** La pregunta del concejal en
+acta. Elena cruza sus propios números: 2.411 expedientes, ninguno entrado por su
+propio pie, 1.168 contados a mano en tres calles, 3.800 en el cuaderno de un
+chaval de la Almadraba. Ninguna de las cuatro cifras conoce a las otras.
+*Cierre: gancho.*
 
-**037 · Anuar VIII · [ANUAR] · 900.** Trescientos dírhams. Lo que costaba no
+**036 · Gonzalo · [2026] · 2.000.** El exmarido llega a Ceuta sin avisar. Quiere
+sacar a Julia. Tiene razón y por eso es insoportable. *Cierre: silencio.*
+
+**037 · Anuar VIII · [ANUAR] · 1.000.** Trescientos dírhams doblados dentro de un
+calcetín, debajo del colchón, en el lado de la ventana. Lo que costaba no
 morirse. *Cierre: giro.*
 
-**038 · Un hombre sin registro · [2026] · 2.300.** Elena busca a Yassin El Founti
-en todas las bases del Estado. No existe en ninguna. Un hombre al que España
-declaró adulto y después dejó de escribir. *Cierre: gancho.*
+**038 · Los nueve que volvieron · [2026] · 2.700.** Elena trabaja la lista del
+sobre anónimo. Localiza a tres. Uno es electricista en Girona y le cuelga. Otro
+está muerto. El tercero le contesta. Y por el camino averigua quién le dejó el
+sobre encima de la mesa. *Cierre: giro.*
 
-**039 · El cuarenta y tres · [2017] · 2.000.** El último informe de aquel verano.
-Y lo que Elena hizo esa noche al llegar a casa: nada. Cenó. *Cierre: silencio.*
+**039 · Once meses · [2026] · 2.400.** La identificación de Anuar es técnicamente
+trivial y jurídicamente imposible: hace falta una muestra de su madre en Beni
+Mellal y una comisión rogatoria que tarda once meses si llega. Chaimae propone
+una manera de conseguir la muestra que es ilegal y que funcionaría.
+*Cierre: gancho.*
 
-**040 · Loma Colmenar · [2026] · 2.600.** Elena entra en la zona de retención.
-Lo que ve, contado con la frialdad de un acta. *Cierre: gancho.*
+**040 · Loma Colmenar · [2026] · 2.600.** El traslado del Trampolín. Elena entra
+en la zona de retención con una acreditación que no le corresponde. Lo que ve,
+contado con la frialdad de un acta. *Cierre: gancho.*
 
-**041 · La nota · [2026] · 1.600.** Bajo la puerta, escrita a mano, en un español
-torpe y cuidadoso: una hora y un sitio. *Cierre: gancho.*
+**041 · La nota · [2026] · 1.700.** Bajo la puerta de casa, escrita a mano, en un
+español torpe y cuidadoso: una hora y un sitio. No la ha traído Berenguer.
+*Cierre: gancho.*
 
-**042 · Sidi Embarek · [2026] · 2.400.** Elena va al cementerio musulmán a la
-hora de la nota. No aparece nadie. Aparece una tumba recién abierta con un
-número por nombre. *Cierre: giro. Fin Parte II.*
+**042 · Sidi Embarek · [2026] · 2.500.** Elena va al cementerio musulmán a la
+hora de la nota. No aparece nadie. Aparece una fosa recién abierta con un número
+por nombre y un hombre que se va antes de que ella llegue. *Cierre: giro. Fin
+Parte II.*
+
+> **Nota de revisión (tras escribir 21-29).** La Parte II absorbió tres cambios
+> que el Director aprobó sobre la marcha y que el resto del libro da por hechos:
+> 1. **Elena sabe desde el capítulo 29 que el muerto se llama Anuar El Founti.**
+>    Saber el nombre y conseguir que el Estado lo escriba son dos cosas distintas,
+>    y esa distancia es ahora el motor burocrático de las partes III y IV. El
+>    capítulo 94 no revela el nombre: lo inscribe.
+> 2. **Ignacio Berenguer**, abogado de Málaga, entra en el 29 como personado en
+>    nombre de un cliente que no puede probar que existe. Es el canal por el que
+>    Yassin actúa antes de aparecer en el 52, y su presencia adelanta trama que la
+>    versión original guardaba demasiado tiempo.
+> 3. **La radiografía ilegal de Driss** (cap 27) está escondida en el altillo de
+>    Elena desde el 18 de agosto. Es el arma de Chéjov que detona en el 71 con la
+>    detención de Julia, y la que convierte a Elena en cómplice antes de ser
+>    denunciante.
 
 ## PARTE III — LOS CUARENTA Y TRES (43-62) · 21 agosto – 10 septiembre · ~40.000
 
