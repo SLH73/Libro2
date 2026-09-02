@@ -29,7 +29,7 @@ de la tesis. No se toca.
 
 ---
 
-## 1. El problema mayor: la novela adelgaza a medida que avanza
+## 1. La novela adelgaza a medida que avanza — y hay que explicar bien por qué
 
 Los números, por bloques de veinticinco capítulos:
 
@@ -39,33 +39,51 @@ Los números, por bloques de veinticinco capítulos:
 | 26-50 | 29.232 | 1.169 | 628 |
 | 51-75 | 28.625 | 1.145 | 695 |
 | 76-100 | 27.071 | 1.082 | 778 |
-| 101-125 | 25.029 | 1.001 | 401 |
+| 101-126 | 26.447 | 1.017 | 401 |
 
-Es una curva descendente sin una sola excepción. Y no es elipsis creciente —que sería
-una virtud—: en el tramo 99-120 son **veintidós capítulos con una media de 933
-palabras**, la racha más delgada del libro, y cae exactamente donde la mecánica es más
-compleja: prisión provisional, expediente gubernativo, ratificación, expulsión del 3 de
-abril, resolución disciplinaria.
+Es una curva descendente sin una sola excepción, y la primera versión de este informe la
+leyó como un defecto: veintidós capítulos con una media de 933 palabras justo donde la
+mecánica jurídica es más compleja, y de ahí la conclusión de que *el tercer acto se
+contó, no se escribió*, con una lista de seis capítulos a los que había que «dar
+cuerpo».
 
-Dicho de otra manera: **el tercer acto se contó, no se escribió**.
+**He releído esos seis capítulos y la conclusión era falsa.** Ninguno es un resumen:
 
-**Solución.** No alargar. Identificar los capítulos que son *resumen de una escena que
-no llegó a escribirse* y escribir la escena. Los candidatos, por orden de rentabilidad:
+- **100 · Los doce días.** Estructura de dietario, sí, pero cada noche está encarnada:
+  la manta doblada en el brazo del sofá con las esquinas iguales, *como se dobla en un
+  sitio donde te enseñan a doblar*; los cuarenta minutos del padre de Chaimae hablando
+  de Beni Mellal; Berenguer diciendo «llevo veintiocho años cobrando por esto, déjeme
+  perder dinero una vez».
+- **107 · Quince de marzo.** Es una escena entera: el despacho, la taza del Atlético
+  boca abajo y seca, las tres preguntas de Olmedo, Yassin leyendo la pantalla moviendo
+  los labios, la firma en letras separadas. Cinco minutos y cuarenta segundos
+  cronometrados contra doscientos veintiocho días. No le falta nada.
+- **109 · Cuarenta y dos cartas.** Contiene las tres respuestas, entre ellas el correo
+  en mayúsculas con catorce faltas de Abdelilah Saadi.
+- **112 · La resolución.** Es uno de los mejores capítulos del libro: la llamada de
+  Olmedo, la segunda copia certificada pagada de su bolsillo por doce euros con veinte,
+  la carta manuscrita a Rachida —*así que se lo escribo aquí, que no es un impreso*—, el
+  acuse de recibo firmado con una cruz y el certificado enmarcado en la pared del salón.
+- **118 · Loma Colmenar.** La franja oscura de dos metros en el hormigón del pasillo
+  central, del roce de los pies. La lista de catorce camastros con once tics. *Estuve
+  aquí y estaba entero.*
+- **119 · El informe que nadie leyó.** Trescientas once páginas destiladas en siete
+  puntos numerados, que es la forma que pide.
 
-- **100 · Los doce días** (1.036). Doce días de espera resueltos en relato. Hay ahí una
-  escena —Elena y Berenguer contando plazos en una mesa— que vale mil palabras.
-- **107 · Quince de marzo** (891). Es *el* día: el único acto que exige la presencia de
-  Yassin, y por tanto el que desactiva la presión. Está contado desde fuera.
-- **112 · La resolución** (900) y **116 · La resolución del expediente** (895). Dos
-  capítulos de lectura de documento separados por cuatro capítulos. Uno de los dos
-  tiene que dejar de ser un documento y pasar a ser dos personas leyéndolo.
-- **118 · Loma Colmenar** (740) y **119 · El informe que nadie leyó** (855). El
-  aniversario y el informe merecen más cuerpo que el que tienen.
+La curva mide otra cosa, y conviene decirla con todas las letras: **la novela adelgaza
+porque la prosa aprende a cortar**. El primer bloque necesita 1.295 palabras para poner
+en pie un mundo que el lector no conoce; el quinto llega con todo instalado y puede
+resolver una comparecencia en novecientas. Eso no es una carencia: es la elipsis que la
+propia apuesta formal del libro —capítulo corto, ritmo irregular— venía prometiendo
+desde el capítulo 2.
 
-Si esos seis capítulos recuperan la media del primer bloque, el manuscrito sube unas
-2.500 palabras. No llega a 155.000 y no debe intentarlo (ver §6).
+**Retiro la lista de expansión.** No hay que dar cuerpo a esos seis capítulos. Lo que sí
+quedaba en pie del diagnóstico original era otra cosa: los dos años de suspensión
+contados en resumen (§4), y eso se ha corregido escribiendo el capítulo que faltaba.
 
----
+*Advertencia metodológica, la segunda de este informe: en este manuscrito el recuento de
+palabras por capítulo no mide calidad de escritura, y a partir del capítulo 90 tiende a
+medir lo contrario.*
 
 ## 2. La revelación del cap 93 — retirado tras releer el 94
 
@@ -174,24 +192,32 @@ emoción declarada en lugar de mostrada. El diálogo va con raya en todo el manu
 
 ---
 
-## 6. Extensión: 142.332 frente a 155.000. Dictamen
+## 6. Extensión: 144.020 palabras en 126 capítulos. Dictamen
 
-Faltan 12.700 palabras y **no se deben rellenar**.
+Con el capítulo 120 escrito y las correcciones de la auditoría aplicadas, el manuscrito
+cierra en **144.020 palabras y 126 capítulos**, frente al objetivo nominal de 155.000.
 
-Las que se pueden ganar honestamente son las de §1 (≈2.500) y §4a (≈1.400): unas 4.000.
-El resto no existe porque la novela no las necesita: engordar los capítulos de la parte
-V para llegar a una cifra sería exactamente el vicio que este informe denuncia en §1,
-cometido a propósito.
+Faltan 11.000 y **no existen**.
 
-**Recomendación editorial: cerrar el manuscrito en ~146.000 palabras.**
+Ésa es la conclusión honrada después de retirar §1 y §2: las palabras que la primera
+versión de este informe daba por recuperables estaban en capítulos que ya son escena.
+Para llegar a 155.000 habría que engordar prosa que funciona, y eso es exactamente el
+vicio que la auditoría de autenticidad detecta —y que en este manuscrito no aparece
+prácticamente en ninguna parte.
 
-Es una extensión de novela de premio grande —el Planeta se ha fallado muchas veces por
-debajo de eso— y es la extensión que pide este libro concreto, cuya unidad rítmica es el
-capítulo corto y cuya apuesta formal es la irregularidad. Un manuscrito de 146.000
-palabras bien apretadas gana a uno de 155.000 con nueve mil de relleno, y el jurado que
-importa nota la diferencia en veinte páginas.
+**Recomendación editorial: cerrar el manuscrito en 144.000 palabras.**
 
----
+Es extensión de novela de premio grande. El Planeta se ha fallado muchas veces por
+debajo de eso, y ésta es además la extensión que pide este libro concreto, cuya unidad
+rítmica es el capítulo corto y cuya apuesta formal es la irregularidad. Un manuscrito de
+144.000 palabras apretadas gana a uno de 155.000 con once mil de relleno, y el jurado
+que importa nota la diferencia en veinte páginas.
+
+**La decisión de subir el listón a 155.000 fue del autor y este informe la revisa, no la
+anula: si el autor la mantiene, la única vía honrada es escribir capítulos nuevos con
+material propio —no alargar los existentes.** Quedan sitios donde cabrían: la primera
+semana de agosto de 2026 en el polideportivo, el silencio de Julia entre marzo y julio
+de 2027, y los meses de Yassin en Beni Mellal después del 3 de abril.
 
 ## 7. Lo que cortaría un editor sin dudarlo
 
@@ -208,11 +234,14 @@ Poco, y esto es un elogio. Tres cosas:
 
 ## 8. Prioridades, por orden
 
-1. Escribir el capítulo de 2028 dentro de la suspensión (§4a). **Impacto máximo.**
-3. Ampliar la exploración del cap 121 con la conversación real (§3).
-4. Convertir 112 o 116 en escena.
-5. Dar cuerpo a 100, 107, 118 y 119.
-6. Decidir el cap 66.
-7. Las seis sustituciones de §5.
+1. ~~Escribir el capítulo de 2028 dentro de la suspensión (§4a).~~ **Hecho**: cap 120,
+   *El aula*. Los antiguos 120-125 pasan a 121-126.
+2. ~~Ampliar la exploración del cap 122 con la conversación real (§3).~~ **Hecho.**
+3. ~~Convertir 112 o 116 en escena.~~ **Retirado**: el 112 ya lo es (§1).
+4. ~~Dar cuerpo a 100, 107, 118 y 119.~~ **Retirado** (§1).
+5. **Decidir el cap 66.** Único punto estructural que sigue abierto tras tres informes.
+6. Las seis sustituciones de §5.
+7. Decisión del autor sobre la extensión (§6).
 
-Con 1 y 2 hechos, el manuscrito está listo para presentarse.
+Hechos 1 y 2 y aplicadas las tres correcciones de la auditoría 05, el manuscrito está
+listo para presentarse. Queda pendiente solo el cap 66 y la decisión de extensión.
