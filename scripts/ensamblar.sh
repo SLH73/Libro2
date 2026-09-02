@@ -6,6 +6,8 @@ out=obra/manuscrito.md
 {
   echo "# La edad de los huesos"
   echo
+  echo "**Lamani**"
+  echo
   echo "*Novela*"
   echo
   for f in obra/capitulos/[0-9]*.md; do

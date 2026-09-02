@@ -1,0 +1,22 @@
+---
+title: La edad de los huesos
+creator:
+  - role: author
+    text: Lamani
+subject:
+  - Narrativa española contemporánea
+  - Novela literaria
+  - Ceuta
+description: |
+  El 30 de julio de 2026 entran en Ceuta setenta y dos mil personas. Entre los
+  cuerpos que salen del agua hay un chico de catorce años que no murió ahogado,
+  y en su bolsillo, plastificado, un informe forense de 2017 firmado por la
+  médica que lo levanta: el papel con el que declaró adulto a un menor.
+language: es-ES
+publisher: Edición del autor
+rights: © Lamani. Todos los derechos reservados.
+date: 2026
+identifier:
+  - scheme: UUID
+    text: urn:uuid:7f3c1a92-5b48-4e0d-9d21-4a6e0c8b5f13
+...
