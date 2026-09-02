@@ -423,11 +423,14 @@ pasillo. Aquí va la hostilidad sin argumento. *Silencio.*
 **071 · Anuar IV · [ANUAR] · 1.000.** La madre le corta el pelo en el escalón.
 *Silencio.*
 
-**072 · Los que la defienden · [2026] · 2.200.** Fredo, Chaimae, Padilla y —sorpresa—
-Rueda. Los aliados que a Elena le habría gustado no tener. *Giro.*
+**072 · Los que la defienden · [2026] · 2.200.** Fredo, Chaimae, Bernal y —sorpresa—
+Rueda. Los aliados que a Elena le habría gustado no tener. Y la primera vuelta de
+tuerca sobre Yassin: Cañete trae lo que le han pedido desde arriba. *Giro.*
 
-**073 · Los que la atacan · [2026] · 2.200.** Y la parte de razón que tienen.
-*Gancho.*
+**073 · Julia y Driss · [2026] · 2.300.** **La escena que el informe editorial exige
+y que no puede faltar.** Los dos juntos, en presente, delante del lector, en el piso
+de la calle Sargento Coriat, la víspera de la entrevista de filiación. Elena los ve
+por primera vez en la misma habitación. *Silencio.*
 
 **074 · Voz: Yassin II · [VOZ] · 1.300.** Nueve años de Europa en página y media:
 Almería, Perpiñán, un invernadero, una furgoneta, dos fronteras. *Giro.*
