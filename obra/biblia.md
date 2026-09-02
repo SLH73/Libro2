@@ -317,3 +317,79 @@ decir cosas que me van a costar caras» (49) → paga en el 82. Padilla quiso fi
 los cuatro folios con ella y Elena no le dejó (35) → paga en el 90. Rueda: «cuéntelos»
 (51) → paga en el 103. Driss, en el 48, **confiesa al lector sin confesar**: se subió
 encima de unos hombros y repite demasiadas veces que podía ser cualquiera.
+
+### Capítulos 53-64 (sesión 1)
+
+**Personajes nuevos:**
+- **Vicente Olmedo**, 56, funcionario del Registro Civil de Ceuta, 29 años de
+  servicio, taza del Atlético. El mejor funcionario del libro. Dibuja las tres
+  vías en un papel. «Es curioso que para poder demostrar quién eres cuando te
+  mueres, tiene que haberte fichado alguien antes.»
+- **Lucía Sanmartín**, 34, periodista de un diario nacional. Tiene los cuatro
+  folios, la respuesta de la Fiscalía y el acta de la nave; **no tiene 2017**.
+  Publica sin el nombre de Elena. Le dijeron: *pregúntale por el verano del 17*.
+- **Amparo Gil**, educadora del centro de menores 2009-2023, hoy en Málaga con
+  teléfono fijo. La mujer de la carpeta verde del 14-IX-2017.
+- **Hamid Bouazza** ampliado: hernia, hija estudiando farmacia en Rabat, le regaló
+  a Anuar unos guantes de trabajo en enero (siguen en el cajón de su casa).
+- **Don Nicolás**, farmacéutico de Tetuán, vino en el mismo barco en 1956.
+
+**Datos duros fijados:**
+- **La comparecencia se aplaza dos veces**: del 20-X al 27-X (aviso el 19-X) y del
+  27-X al **martes 10 de noviembre** (aviso el 23-X). En información reservada **no
+  hay plazo legal**: puede durar hasta quince meses.
+- El piso vacío de Milagros: **calle Sargento Coriat, cuarto sin ascensor**. Julia
+  no esconde a Driss: le da clases. Cuaderno azul con verbos, listas de oficios y
+  correcciones («soldador NO se dice soldator»). Calendario de 2023 vuelto del
+  revés con octubre cuadriculado a mano y los días tachados.
+- **Anuar entró en el taller el 14 de octubre, con 11 años y 8 meses.** Tres meses
+  sin cobrar. Primer sueldo 40 dírhams; su madre le devolvió 10: *si no coges los
+  diez, esto es una obligación; si los coges, es un trabajo*. Quería aprender TIG,
+  irse dos años a España y volver a montar un taller de estructuras.
+- **Cap 61, donde se tocan las líneas**: 4-VIII-2017 y **lunes 2-XI-2026**, misma
+  aula, misma silla. El de 2026 es **Driss**, que entra en el sistema por su
+  cuenta. La placa oficial da 18 (página 118). Elena está sola cuatro minutos
+  (11:48-11:52, registrado en el sistema) y escribe **17**: el mínimo defendible
+  del intervalo, no una mentira. Y añade en observaciones que otro facultativo
+  podría consignar legítimamente un valor superior. **Driss no siente alivio:
+  siente miedo.** «Entonces yo entro.» — «Te van a preguntar cosas.»
+- Elena añade desde septiembre un **quinto párrafo** a todos sus informes: la carga
+  mecánica sostenida acelera la maduración y en trabajadores desde la infancia la
+  edad ósea puede superar en dos o más años a la cronológica.
+- **Cap 63, la escena más difícil**: el 14-IX-2017 Amparo Gil espera 1 h 50 min de
+  pie (no había sillas) con la partida de nacimiento de Yassin (12-III-2002). El
+  chico ya se había ido el 22-VIII. Elena le contesta lo **procedimentalmente
+  correcto** —el escrito a la Fiscalía es el cauce y está presentado— y no hace las
+  tres cosas que podía hacer: llamar al fiscal, emitir informe complementario de
+  revisión, bajar al sótano a mirar los otros cuarenta y dos. «Cuando usted los ve,
+  ¿usted sabe la edad que tienen?» — «A veces.»
+- **Cap 60**: la Delegación responde al artículo anunciando una **auditoría externa
+  del protocolo**, con conclusiones para el último trimestre de 2027. Quince meses
+  = unas 2.000 casillas. Robles hace la cuenta en voz alta. Elena da su
+  conformidad a que la nota lleve su nombre. «Ha hecho usted bien. Yo habría hecho
+  lo mismo. Y las dos cosas juntas no son ningún consuelo.»
+- **Cap 59, Robles y el Tarajal de 2014**: no estaba en la playa, estaba en el
+  paso. Contó las detonaciones. Estuvo en la puerta por la que salieron los 23 que
+  llegaron a tierra, y en cuatro minutos se construyó una razón jurídica por la que
+  aquello estaba bien. Podía haberlo puesto por escrito esa tarde y no lo hizo.
+  **No pide perdón y no dice que no pudiera hacer nada.** Y por eso, en 2017, fue a
+  decirle a Elena en voz alta lo del margen: era lo más parecido a un papel que se
+  le ocurrió.
+- **Cap 58, el motor del final**: «Da igual lo que yo cuente el diez de noviembre.
+  Lo que hay que cambiar es la casilla.» Elena calcula que hasta jubilarse en 2042
+  firmará entre 9.000 y 11.000 casillas más.
+- **Cap 64, la vía legal que abre el final**: Milagros, en un día bueno, cuenta
+  que en 1956 su familia llegó sin papeles válidos y que **don Nicolás, el
+  farmacéutico de Tetuán, entró en la oficina y dijo que los conocía. Y con eso
+  valió.** El Registro admite identificación **por dos testigos que respondan de la
+  identidad**. Elena piensa en **Bernal** (le devolvió los efectos a Yassin dos
+  veces y lo apuntó) y en **Rueda** (tiene los 43 expedientes). **Esta es la vía por
+  la que se resuelve la inscripción del cap 113 sin que Yassin tenga que entregarse
+  — o el intento que fracasa y le obliga a entregarse igual. Decidir al escribir el
+  bloque 105-113.**
+
+**Promesas abiertas nuevas:** ¿quién filtró lo de 2017 a la periodista? Lista de
+Elena (cap 57): Rueda, Robles, Cañete, Bernal, Padilla, Loureiro — y Berenguer y
+su cliente. **Paga en el 68.** · El informe de Driss firmado con 17 sobre una placa
+de 18 es detectable por Padilla en el control interno de una de cada diez → paga
+en el 80/90. · Elena encontró a Amparo Gil en dos minutos y no la llamó.
