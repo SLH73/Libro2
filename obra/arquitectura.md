@@ -521,19 +521,26 @@ hubo un chaval de dieciséis que no sabía nadar y se agarró a lo primero. El h
 partido es verdad y la historia que Elena construyó con él es falsa. Exactamente lo
 que lleva veintitrés años haciendo con las muñecas. *Giro.*
 
-**094 · Lo que dice un hueso · [2026] · 2.000.** La ciencia le dio un dato correcto y
-ella le puso encima una novela. *Silencio.*
+**094 · Cifuentes tenía razón · [2026] · 2.200.** Elena llama a Cádiz y se lo cuenta
+todo, incluida la placa ilegal. Cifuentes le da el veredicto profesional y **la salida
+que Elena no había visto: no hace falta la placa de agosto.** Un callo de fractura
+sigue viéndose siete meses después; basta una radiografía nueva, legal, con
+indicación y consentimiento. Eso salva a Chelo. Y mete a Driss en el expediente.
+*Gancho.*
 
-**095 · Cifuentes tenía razón · [2026] · 1.900.** La llamada a Cádiz. *Silencio.*
+**095 · Rachida · [2026] · 2.000.** Videollamada de cuarenta minutos con Beni Mellal,
+con Chaimae de puente. La madre pregunta lo único que importa y no es lo que Elena
+esperaba. *Silencio.*
 
-**096 · Rachida · [2026] · 2.000.** Chaimae hace de puente en una videollamada de
-cuarenta minutos. La madre pregunta lo único que importa. *Silencio.*
+**096 · La visita · [2026] · 2.600.** **El capítulo moral del último acto.** Elena va
+al centro penitenciario y le pone a Yassin la elección delante: salir libre y en un
+barco, o quedarse preso hasta el señalamiento del Registro. No decide ella. Decide
+él, y decide sabiendo todo. *Silencio.*
 
-**097 · Lo que hay que hacer con esto · [2026] · 2.200.** Elena entiende que decir la
-verdad sobre el antebrazo libera a Yassin y hunde a Driss, y que callarla hace lo
-contrario. *Gancho.*
+**097 · Lo que cuesta · [2026] · 2.000.** Chelo, Driss, Julia. Las tres facturas que
+Elena no puede pagar con su propio dinero. *Gancho.*
 
-**098 · La decisión · [2026] · 2.300.** La toma. *Giro. Fin Parte IV.*
+**098 · La decisión · [2026] · 2.200.** La toma. *Giro. Fin Parte IV.*
 
 ## PARTE V — EL NOMBRE (99-125) · noviembre – febrero · ~48.000
 
