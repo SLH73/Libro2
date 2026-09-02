@@ -6,18 +6,18 @@
 | | |
 |---|---|
 | **Fase** | EN PRODUCCIÓN |
-| **Palabras escritas** | **117972** / 155000 (76 %) |
-| **Palabras restantes** | 37028 |
-| **Capítulos escritos** | 101 / 125 |
-| **Último capítulo cerrado** | obra/capitulos/101-anuar-ii.md |
-| **SIGUIENTE CAPÍTULO A ESCRIBIR** | **102** |
-| **Media escrita hasta ahora** | 1168 palabras/capítulo |
-| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **1542 palabras/capítulo** |
+| **Palabras escritas** | **118822** / 155000 (76 %) |
+| **Palabras restantes** | 36178 |
+| **Capítulos escritos** | 102 / 125 |
+| **Último capítulo cerrado** | obra/capitulos/102-driss-declara.md |
+| **SIGUIENTE CAPÍTULO A ESCRIBIR** | **103** |
+| **Media escrita hasta ahora** | 1164 palabras/capítulo |
+| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **1572 palabras/capítulo** |
 
 ## Ritmo
 
-Quedan **37028 palabras** en **24 capítulos**: una media de
-**1542 palabras por capítulo**, que es el ritmo natural de esta novela y
+Quedan **36178 palabras** en **23 capítulos**: una media de
+**1572 palabras por capítulo**, que es el ritmo natural de esta novela y
 no hay que forzarlo en ninguna dirección.
 
 **La extensión la manda la escena, no la cuenta.** Las fichas de
@@ -33,14 +33,14 @@ exactamente por donde empieza a sonar a manual.
 
 ## Qué tienes que hacer ahora
 
-Escribe el capítulo 102 siguiendo obra/arquitectura.md, **con una extensión de al menos 1542 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 103. Sin parar.
+Escribe el capítulo 103 siguiendo obra/arquitectura.md, **con una extensión de al menos 1572 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 104. Sin parar.
 
 ## Recordatorio
 
-1. Lee la ficha del capítulo 102 en `obra/arquitectura.md`.
+1. Lee la ficha del capítulo 103 en `obra/arquitectura.md`.
 2. Lee `obra/biblia.md` y los dos últimos capítulos escritos para no romper continuidad.
-3. Escribe en `obra/capitulos/102-titulo-en-kebab.md`.
-4. `bash scripts/estado.sh && git add -A && git commit -m "cap 102: ..." && git push -u origin claude/libro-200k-agentes-automaticos-28lkqx`
+3. Escribe en `obra/capitulos/103-titulo-en-kebab.md`.
+4. `bash scripts/estado.sh && git add -A && git commit -m "cap 103: ..." && git push -u origin claude/libro-200k-agentes-automaticos-28lkqx`
 5. Vuelve al punto 1 con el capítulo siguiente. No pares hasta que se corte la sesión.
 
 ## Notas dejadas por la sesión anterior
