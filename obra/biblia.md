@@ -79,7 +79,7 @@ promesa), **se anota aquí en el mismo commit**.
 ### Capítulos 1-8 (sesión 1)
 
 **Personajes nuevos:**
-- **Ricardo Bernal**, 54, técnico del IML. Ceutí, hijo y nieto de pescaderos. El
+- **Ricardo Bernal**, 63 (en 2026), técnico del IML desde 2004; se jubila en marzo de 2030. Ceutí, hijo y nieto de pescaderos. El
   hombre más callado del libro: da datos, nunca opiniones. Trajo hielo del bar de
   Manolo el 30-VII.
 - **Sargento Ramírez**, 55ish, Guardia Civil, de Jaén, en Ceuta desde 1998.
@@ -437,3 +437,111 @@ un mono al irse. **Rachid**, capataz de Fnideq que no dejaba subir a los menores
   ayudando a un chaval y pasa a ser una familia.
 - **Cap 78, LA BISAGRA**: la fractura de estiloides cubital en la placa del altillo.
   Ver la nota añadida en `obra/arquitectura.md` antes de la ficha 079.
+
+### Capítulos 79-125 (cierre de la novela)
+
+**Personajes nuevos o consolidados:**
+- **Chelo**, técnica de Radiología del Hospital Universitario. 28 años en el
+  hospital, 22 de ellos en Radiología desde 2004 (cap 81). Le hizo a Elena la
+  placa ilegal de Driss el 18-VIII-2026. Es la persona a la que la versión C del
+  expediente puede destruir.
+- **Cifuentes**, radiólogo. Resuelve el dilema de Chelo (cap 94): una fractura
+  consolidada sigue viéndose siete meses después → una **placa nueva y legal**
+  sustituye a la ilegal, salva a Chelo y sirve igual.
+- **Berenguer**, abogado de Yassin. Abre el segundo frente (expediente gubernativo)
+  que solo funciona **porque la entrega de Yassin lo hizo existir legalmente**.
+- **Rachida Ouhaddou**, madre de Anuar y Yassin. Cap 95: *«Dígame cómo estaba»* /
+  *«Pues escriba usted más.»* No puede entrar en Ceuta (régimen sin visado solo
+  para residentes de Tetuán; Beni Mellal está a 600 km).
+- **Ismael Padilla**, forense joven. Pide prórroga en 2027 y 2028 y en 2029 saca la
+  plaza definitiva de Ceuta, que sale desierta todos los años (cap 120). Tic: dos
+  clics con el bolígrafo cuando algo le parece mal y no lo dice (establecido
+  13-VIII-2026, nombrado en el cap 120, **pagado por inversión en el cap 122**:
+  esta vez no hace clic, lo dice).
+- **Ayoub Bouhlal**, expediente 2.948, 15 años según él, de Beni Mellal (caps
+  121-122). No sabe el día de su nacimiento: lo sitúa *«después de la siega»*.
+- **Yusuf**, marmolista de la carretera del Recinto: pone la lápida de Anuar el
+  19-VI-2027 (sábado), 410 € con el grabado.
+
+**Datos duros fijados:**
+- **Cap 78 (bisagra) → 93 (revelación)**: fractura de estiloides cubital por
+  avulsión en el borde de la placa obtenida ilegalmente. Elena no la vio en agosto
+  **porque estaba buscando una edad**. Cap 93 cierra con *«No estoy segura.»*
+- **Cap 82**: nadie mató a Anuar. Fue el pánico, el bidón y el cabo enrollado en la
+  muñeca. La novela persigue un asesinato 600 páginas para encontrar el mismo
+  error que la protagonista comete cada mañana con una radiografía de muñeca.
+- **Mecánica jurídica del tercer acto**: la prisión provisional es lo único que
+  mantiene a Yassin en España; exonerarlo lo deporta. La ratificación del 15-III es
+  el único acto que exige su presencia; hecho eso, se le expulsa el **3-IV-2027**
+  sin que llegue a ver el resultado (cap 111, que abre reconociendo la elipsis).
+- **Cap 98**: la nota manuscrita de Elena — *ochenta y dos días es exactamente el
+  mismo mecanismo que nueve años*.
+- **Cap 116 (8-VII-2027)**: se resuelve el expediente disciplinario. Suspensión de
+  funciones de **24 meses: 1-VIII-2027 → 31-VII-2029**.
+- **Cap 120 (julio 2029)**: en la suspensión Elena da clases de FP (ciclo de
+  emergencias sanitarias, 12 h y luego 18 h) y revisa **4.811 informes históricos**
+  de edad para la Universidad de Cádiz, sin cobrar. Padilla lleva 42 informes
+  firmados por debajo de 16 en tres años. Elena cumple **50 años en abril de 2029**.
+- **Cap 121 (6-VIII-2029)**: primera exploración tras la reincorporación (1-VIII).
+  La sala es ahora la **Sala 3** de la planta baja, reformada en 2028. El atlas
+  sigue siendo Greulich y Pyle, 2.ª ed. de 1959. Padilla pidió bibliografía
+  actualizada dos veces (2027, 2028): *no consta partida presupuestaria*.
+  Volumen: 1.800 exploraciones en 2026 · 600 en 2027 · 320 en 2028 · 191 hasta
+  agosto de 2029. Total desde el 3-VIII-2026: **2.947 expedientes**.
+- **Cap 122, EL GIRO FINAL**: de los 4.811 informes revisados, la Fiscalía se apartó
+  del número del forense **16 veces** (3 ‰) y un forense escribió *no es posible
+  determinar* **11 veces**; de esas 11, en 9 se ordenó segunda exploración y en 8 el
+  segundo puso 18. Las dos que quedaron eran del mismo médico, **Jesús María Otero**,
+  IML de Huelva, 2013 y 2014, muerto en 2021. El **artículo 12.4 de la LO 1/1996**
+  lleva desde 2015 diciendo que quien no puede ser establecido como mayor de edad
+  *será considerado menor*. La aplicación informática no deja guardar el formulario
+  con la casilla vacía (campo numérico obligatorio de dos dígitos), así que Elena
+  **imprime, tacha la casilla, escribe a mano *No determinable. Véase valoración*,
+  firma y lo sube como documento adjunto**. Once minutos. **Elena desaparece del
+  libro aquí**: «Y aquí esta historia ya deja de ser suya.»
+- **Cap 123**: los tres cuadernos. Bernal (391 devoluciones en 24 años, cuatro
+  libretas de hule, la primera del estanco de la esquina por 2,20 €; se jubila el
+  14-III-2030, viernes). Hicham (guardés de Sidi Embarek desde 1992; tres cuadernos
+  de contabilidad; **cuatro familias en 38 años, dos consiguieron el nombre**: una
+  de Chefchaouen en 2011 y la de Anuar el 19-VI-2027; se le acaba el contrato en
+  2030 y no hay relevo). Yeray (4.160 nombres; en tres años **una sola persona** se
+  los pidió, una abogada de Nantes, mayo de 2029: cuaderno seis, página 61, renglón
+  14; el hermano estaba vivo en Alemania). El cuarto cuaderno era del Estado: la
+  malla de emisoras del 30-VII, 411 entradas.
+- **Cap 124**: Anuar nació el **4-11-2011 según el papel**, pero su madre solo sabe
+  que fue «cuando hacía frío», y la fecha la puso un funcionario del registro meses
+  después. En el papel de Yassin pone marzo y su madre dice que nació en la trilla.
+  **La fecha de nacimiento de Anuar es tan inventada como la casilla de Elena.**
+  Anuar = *el que da más luz*; era el nombre del abuelo materno. Su madre le escribió
+  el nombre con rotulador en la goma del pantalón la última noche.
+- **Cap 125 (última página)**: un viernes de abril de 2026 en Beni Mellal. *msemen*,
+  22 minutos hasta el taller, una soldadura que le sale bien, Hamid que no dice nada
+  (que es como dice que está bien), medio pan en el muro. Últimas cuatro líneas:
+  *Es viernes. / Es abril. / Tengo catorce años. / Y hace sol.* El único sitio del
+  libro donde el número catorce es verdad es la boca del chico.
+
+**Promesas cerradas en este bloque:** quién mató a Anuar (82) · quién puso el informe
+en el bolsillo (52) · si Anuar tendrá nombre (113) · si Elena va a contarlo (88, 103) ·
+qué hizo Robles en el Tarajal (89, 104) · la fractura de estiloides (78 → 93) · la
+radiografía ilegal y Chelo (81 → 94) · las tres conversaciones de Robles en agosto de
+2017 (25, 89) · la mentira a Cañete sobre 2017 (20, 88) · la casilla (122).
+
+---
+
+## Alertas abiertas
+
+1. **Cap 62 · corregido.** Anuar decía haber entrado en el taller «el catorce de
+   octubre, un lunes» con once años y ocho meses, incompatible con la fecha de
+   nacimiento 4-11-2011. Cambiado a **«el diez de julio, un lunes»** (10-VII-2023
+   fue lunes y da 11 años y 8 meses exactos).
+2. **Cap 66 · pendiente de maquetación.** El capítulo panorámico llega hasta el 20
+   de noviembre de 2026 y va colocado *antes* de la comparecencia del 10 de
+   noviembre. Es un interludio deliberado, pero necesita marca tipográfica en
+   maqueta (versalita, filete o cambio de cuerpo) para que el lector no lo lea como
+   un salto de continuidad.
+3. **Orden de los capítulos [VOZ].** 117 (mayo de 2028) va antes de 118 (30 de julio
+   de 2027) y 119 (enero de 2028). Es la convención establecida desde el principio:
+   los capítulos [VOZ] flotan fuera de la línea temporal. Verificar en maqueta que
+   la marca de línea es visible en el índice.
+4. **Extensión final: 142.263 palabras frente a un objetivo de 155.000.** No se
+   corrige alargando capítulos. Ver el informe editorial del bloque 5.

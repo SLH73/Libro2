@@ -124,9 +124,9 @@ Lo dejó en la mesa, se apoyó con las dos manos en el respaldo de la silla y di
 
 —No.
 
-—Y a usted le queda un mes de reincorporación.
+—Y usted lleva seis días en la casa.
 
-—Veintisiete días.
+—Seis.
 
 Padilla asintió despacio.
 

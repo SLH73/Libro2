@@ -20,15 +20,15 @@ Los otros tres los llevaba gente.
 
 **I**
 
-Ricardo Bernal se jubiló el 14 de marzo de 2030, un viernes, con cuarenta años y tres meses cotizados y sin fiesta, porque dijo que ni hablar y en el Instituto le hicieron caso a medias: le compraron una tarta en la pastelería de la calle Camoens y se la comieron a las once en la sala de técnicos, de pie, en vasos de plástico, doce personas y en once minutos.
+Ricardo Bernal se jubiló el 14 de marzo de 2030, un viernes, con cuarenta y ocho años cotizados y sin fiesta, porque dijo que ni hablar y en el Instituto le hicieron caso a medias: le compraron una tarta en la pastelería de la calle Camoens y se la comieron a las once en la sala de técnicos, de pie, en vasos de plástico, doce personas y en once minutos.
 
 A las dos y cuarto recogió el segundo cajón.
 
-Dentro había una grapadora que no era suya, dos cargadores de móviles que ya no existían, una foto de su nieta, un rollo de esparadrapo de tela de 2014 y una libreta de hule negro, de las de toda la vida, tamaño octavo, con las esquinas redondeadas por el uso y el hule levantado en la contraportada.
+Dentro había una grapadora que no era suya, dos cargadores de móviles que ya no existían, una foto de su nieta, un rollo de esparadrapo de tela de 2014 y cuatro libretas de hule negro, de las de espiral arriba, con las esquinas redondeadas por el uso y el hule levantado en las contraportadas.
 
-La había comprado él en 2006, en la papelería Cervantes, por un euro con ochenta.
+La primera la había comprado él en 2006, en el estanco de la esquina, por dos euros con veinte.
 
-Ese detalle lo tenía claro y lo decía, cuando salía el asunto, con una insistencia que a la gente le parecía rara. La libreta era suya. La había pagado él. No era del Instituto, no era de la Consejería, no era del Ministerio, y por lo tanto no había que dejarla en ningún sitio al irse.
+Ese detalle lo tenía claro y lo decía, cuando salía el asunto, con una insistencia que a la gente le parecía rara. Las libretas eran suyas. Las había pagado él. No era del Instituto, no era de la Consejería, no era del Ministerio, y por lo tanto no había que dejarlas en ningún sitio al irse.
 
 Dentro estaban apuntados, desde el 9 de febrero de 2006, los efectos personales que había devuelto.
 
@@ -70,7 +70,7 @@ Cuatro. Con toda la costa por delante y todos los años que han pasado, cuatro f
 
 La primera fue en 2011, una familia de Chefchaouen.
 
-La segunda fue en marzo de 2027, y él estuvo delante, y eran cinco personas y un albañil, y la lápida se puso un martes por la mañana y en dieciocho minutos.
+La segunda fue el 19 de junio de 2027, y él estuvo delante, y eran cinco personas y un albañil de la carretera del Recinto que se llamaba Yusuf, y la lápida se puso un sábado por la mañana en veinte minutos.
 
 Hicham cumplió sesenta y cinco años en 2030 y se le acabó el contrato.
 
@@ -114,7 +114,7 @@ Cuando se lo contaron, Yeray no dijo nada durante un rato largo y después dijo 
 
 Los cuadernos no salvaron a nadie.
 
-Un cuaderno de hule con trescientas noventa y una devoluciones de efectos, tres cuadernos de contabilidad con las sepulturas de beneficencia de un cementerio de la parte alta y once cuadernos de espiral con cuatro mil ciento sesenta nombres apuntados en una playa no cambiaron ni una resolución, ni una cifra, ni una sola de las catorce comparecencias.
+Cuatro cuadernos de hule con trescientas noventa y una devoluciones de efectos, tres cuadernos de contabilidad con las sepulturas de beneficencia de un cementerio de la parte alta y once cuadernos de espiral con cuatro mil ciento sesenta nombres apuntados en una playa no cambiaron ni una resolución, ni una cifra, ni una sola de las catorce comparecencias.
 
 Lo único que hicieron fue estar ahí el día que alguien preguntó.
 

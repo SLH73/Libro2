@@ -2,7 +2,7 @@
 
 *El taller*
 
-Entré en el taller de Hamid el catorce de octubre, un lunes, y tenía once años y ocho meses.
+Entré en el taller de Hamid el diez de julio, un lunes, y tenía once años y ocho meses.
 
 Mi madre me llevó.
 
