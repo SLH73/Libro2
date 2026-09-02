@@ -4,7 +4,7 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-OBJETIVO=200000
+OBJETIVO=155000
 TOTAL_CAPS=125
 CAPS_DIR=obra/capitulos
 
@@ -49,20 +49,22 @@ cat > obra/ESTADO.md <<EOF
 | **Media escrita hasta ahora** | $media_actual palabras/capítulo |
 | **MEDIA NECESARIA DE AQUÍ AL FINAL** | **$media_necesaria palabras/capítulo** |
 
-## ⚠️ Aviso de ritmo
+## Ritmo
 
-Quedan **$restantes palabras** repartidas en **$caps_restantes capítulos**. Eso obliga
-a una media de **$media_necesaria palabras por capítulo** de aquí al final.
+Quedan **$restantes palabras** en **$caps_restantes capítulos**: una media de
+**$media_necesaria palabras por capítulo**, que es el ritmo natural de esta novela y
+no hay que forzarlo en ninguna dirección.
 
-Las fichas de \`obra/arquitectura.md\` dan la extensión *relativa* de cada capítulo
-(cuál es largo y cuál es corto, y eso no se toca: el ritmo irregular es una
-decisión de estilo). Pero la escala se ajusta a esta media. Si la ficha pide 2.000
-y la media necesaria es 2.400, escribe ese capítulo a 2.400. Los capítulos en
-primera persona —\`[ANUAR]\` y \`[VOZ]\`— son la excepción y **nunca pasan de 1.400
-palabras**: son cuchilladas, y alargarlos los estropea.
+**La extensión la manda la escena, no la cuenta.** Las fichas de
+\`obra/arquitectura.md\` dan la extensión relativa de cada capítulo —cuál es largo y
+cuál corto— y eso es lo que se respeta. Un capítulo se acaba donde se tiene que
+acabar. Los de primera persona —\`[ANUAR]\` y \`[VOZ]\`— nunca pasan de 1.400
+palabras: son cuchilladas.
 
-Escribir corto es el único error que este sistema no perdona, porque no se nota en
-un capítulo y se nota al final del libro.
+Si la media necesaria se dispara por encima de 1.800, **no alargues los capítulos**:
+avisa al usuario de que el objetivo y el plano se han separado. El informe editorial
+del bloque 2 lo dejó dicho y sigue vigente: meter relleno en esta novela es
+exactamente por donde empieza a sonar a manual.
 
 ## Qué tienes que hacer ahora
 

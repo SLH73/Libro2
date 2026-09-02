@@ -84,7 +84,17 @@ en el capítulo 61.
 
 # LOS CIENTO VEINTICINCO CAPÍTULOS
 
-> **Ampliación acordada tras el bloque 2 (informe `editorial-02.md`).** El plano
+> **DECISIÓN DEL AUTOR (capítulo 87).** El objetivo pasa de 200.000 palabras a
+> **~155.000, manteniendo los 125 capítulos de este plano.** La media real de
+> escritura —unas 1.250 palabras por capítulo— es la que pide esta novela, y forzarla
+> hacia arriba era meter relleno. 155.000 palabras son unas 550 páginas, dentro del
+> rango cómodo del Planeta. **No se amplía el número de capítulos y no se alargan las
+> escenas: el plano de 125 fichas que sigue a continuación es el libro entero.**
+>
+> ---
+>
+> *(Histórico, ya superado por la decisión de arriba)* **Ampliación acordada tras el
+> bloque 2 (informe `editorial-02.md`).** El plano
 > original preveía cien capítulos de 2.000 palabras. La media real de escritura es
 > de 1.269, y no por descuido: los capítulos salen así porque están bien cortados.
 > Alargarlos sería meter relleno en una novela cuyo motor es que no lo tiene. Se

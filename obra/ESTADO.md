@@ -1,37 +1,39 @@
 # ESTADO DE LA OBRA
 
 > Fichero generado por `scripts/estado.sh`. **Es lo primero que lee cada sesión.**
-> Última actualización: 2026-09-02 16:57 UTC
+> Última actualización: 2026-09-02 17:02 UTC
 
 | | |
 |---|---|
 | **Fase** | EN PRODUCCIÓN |
-| **Palabras escritas** | **102879** / 200000 (51 %) |
-| **Palabras restantes** | 97121 |
+| **Palabras escritas** | **102879** / 155000 (66 %) |
+| **Palabras restantes** | 52121 |
 | **Capítulos escritos** | 87 / 125 |
 | **Último capítulo cerrado** | obra/capitulos/087-berenguer-trabaja.md |
 | **SIGUIENTE CAPÍTULO A ESCRIBIR** | **088** |
 | **Media escrita hasta ahora** | 1182 palabras/capítulo |
-| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **2555 palabras/capítulo** |
+| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **1371 palabras/capítulo** |
 
-## ⚠️ Aviso de ritmo
+## Ritmo
 
-Quedan **97121 palabras** repartidas en **38 capítulos**. Eso obliga
-a una media de **2555 palabras por capítulo** de aquí al final.
+Quedan **52121 palabras** en **38 capítulos**: una media de
+**1371 palabras por capítulo**, que es el ritmo natural de esta novela y
+no hay que forzarlo en ninguna dirección.
 
-Las fichas de `obra/arquitectura.md` dan la extensión *relativa* de cada capítulo
-(cuál es largo y cuál es corto, y eso no se toca: el ritmo irregular es una
-decisión de estilo). Pero la escala se ajusta a esta media. Si la ficha pide 2.000
-y la media necesaria es 2.400, escribe ese capítulo a 2.400. Los capítulos en
-primera persona —`[ANUAR]` y `[VOZ]`— son la excepción y **nunca pasan de 1.400
-palabras**: son cuchilladas, y alargarlos los estropea.
+**La extensión la manda la escena, no la cuenta.** Las fichas de
+`obra/arquitectura.md` dan la extensión relativa de cada capítulo —cuál es largo y
+cuál corto— y eso es lo que se respeta. Un capítulo se acaba donde se tiene que
+acabar. Los de primera persona —`[ANUAR]` y `[VOZ]`— nunca pasan de 1.400
+palabras: son cuchilladas.
 
-Escribir corto es el único error que este sistema no perdona, porque no se nota en
-un capítulo y se nota al final del libro.
+Si la media necesaria se dispara por encima de 1.800, **no alargues los capítulos**:
+avisa al usuario de que el objetivo y el plano se han separado. El informe editorial
+del bloque 2 lo dejó dicho y sigue vigente: meter relleno en esta novela es
+exactamente por donde empieza a sonar a manual.
 
 ## Qué tienes que hacer ahora
 
-Escribe el capítulo 088 siguiendo obra/arquitectura.md, **con una extensión de al menos 2555 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 89. Sin parar.
+Escribe el capítulo 088 siguiendo obra/arquitectura.md, **con una extensión de al menos 1371 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 89. Sin parar.
 
 ## Recordatorio
 
