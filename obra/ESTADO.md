@@ -6,18 +6,18 @@
 | | |
 |---|---|
 | **Fase** | EN PRODUCCIÓN |
-| **Palabras escritas** | **104263** / 155000 (67 %) |
-| **Palabras restantes** | 50737 |
-| **Capítulos escritos** | 88 / 125 |
-| **Último capítulo cerrado** | obra/capitulos/088-dos-anos-de-margen.md |
-| **SIGUIENTE CAPÍTULO A ESCRIBIR** | **089** |
-| **Media escrita hasta ahora** | 1184 palabras/capítulo |
-| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **1371 palabras/capítulo** |
+| **Palabras escritas** | **104836** / 155000 (67 %) |
+| **Palabras restantes** | 50164 |
+| **Capítulos escritos** | 89 / 125 |
+| **Último capítulo cerrado** | obra/capitulos/089-anuar-ii-bis.md |
+| **SIGUIENTE CAPÍTULO A ESCRIBIR** | **090** |
+| **Media escrita hasta ahora** | 1177 palabras/capítulo |
+| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **1393 palabras/capítulo** |
 
 ## Ritmo
 
-Quedan **50737 palabras** en **37 capítulos**: una media de
-**1371 palabras por capítulo**, que es el ritmo natural de esta novela y
+Quedan **50164 palabras** en **36 capítulos**: una media de
+**1393 palabras por capítulo**, que es el ritmo natural de esta novela y
 no hay que forzarlo en ninguna dirección.
 
 **La extensión la manda la escena, no la cuenta.** Las fichas de
@@ -33,14 +33,14 @@ exactamente por donde empieza a sonar a manual.
 
 ## Qué tienes que hacer ahora
 
-Escribe el capítulo 089 siguiendo obra/arquitectura.md, **con una extensión de al menos 1371 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 90. Sin parar.
+Escribe el capítulo 090 siguiendo obra/arquitectura.md, **con una extensión de al menos 1393 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 91. Sin parar.
 
 ## Recordatorio
 
-1. Lee la ficha del capítulo 089 en `obra/arquitectura.md`.
+1. Lee la ficha del capítulo 090 en `obra/arquitectura.md`.
 2. Lee `obra/biblia.md` y los dos últimos capítulos escritos para no romper continuidad.
-3. Escribe en `obra/capitulos/089-titulo-en-kebab.md`.
-4. `bash scripts/estado.sh && git add -A && git commit -m "cap 089: ..." && git push -u origin claude/libro-200k-agentes-automaticos-28lkqx`
+3. Escribe en `obra/capitulos/090-titulo-en-kebab.md`.
+4. `bash scripts/estado.sh && git add -A && git commit -m "cap 090: ..." && git push -u origin claude/libro-200k-agentes-automaticos-28lkqx`
 5. Vuelve al punto 1 con el capítulo siguiente. No pares hasta que se corte la sesión.
 
 ## Notas dejadas por la sesión anterior
