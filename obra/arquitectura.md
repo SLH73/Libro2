@@ -394,11 +394,31 @@ cuarenta y tres menores. Todo cierto. *Gancho. Fin Parte III.*
 > **Reloj de la parte:** la prisión provisional de Yassin, acordada en el 83 con un
 > plazo que vence en el 98.
 
-**069 · Ochenta y tres mil vecinos · [2026] · 2.100.** Ser señalada en una ciudad
-donde todos se conocen. La panadería. El gimnasio. *Silencio.*
+> **Corrección obligatoria de la Parte IV (informe `editorial-03.md`).** Tres cosas
+> que esta parte tiene que ejecutar y que no son opcionales:
+> 1. **El thriller vuelve como amenaza, no como investigación.** Las dos horas sin
+>    vigilancia y la fibra azul siguen en un expediente vivo. El lector no necesita
+>    que Elena busque a un asesino: necesita ver cómo el aparato, funcionando
+>    correctamente, construye un culpable equivocado con las pruebas que ella misma
+>    produjo. La soga se cierra sobre Yassin desde el 69.
+> 2. **Alguien que no tiene razón.** Ocho interlocutores razonables seguidos han
+>    anestesiado el libro. Hace falta hostilidad sin argumento, un compañero que la
+>    esquive, y una escena en la que Elena se porte mal a secas.
+> 3. **Julia y Driss juntos, en presente, delante del lector, antes del 76.** Si no
+>    se les ha visto nunca en la misma habitación, la detención no duele.
+>
+> **Nota de cronología:** el 10 de noviembre es la comparecencia de la *información
+> reservada*, donde Elena cuenta los cuarenta y tres. La del cap 103 es posterior y
+> distinta: la del expediente disciplinario ya incoado, donde entrega la versión C.
 
-**070 · Suspensión · [2026] · 1.900.** Suspensión cautelar de funciones. Entregar la
-llave del archivo que ya no abre nada. *Gancho.*
+**069 · Diez de noviembre · [2026] · 2.600.** La comparecencia. Sanchidrián, un
+instructor correcto con el periódico encima de la mesa. Elena cuenta los cuarenta y
+tres y no cuenta nada más. Termina **en mitad de un párrafo**, sin frase de remate.
+*Silencio.*
+
+**070 · Ochenta y tres mil vecinos · [2026] · 2.100.** Ser señalada en una ciudad
+donde todos se conocen. La panadería, el gimnasio, un compañero que cambia de
+pasillo. Aquí va la hostilidad sin argumento. *Silencio.*
 
 **071 · Anuar IV · [ANUAR] · 1.000.** La madre le corta el pelo en el escalón.
 *Silencio.*
