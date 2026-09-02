@@ -33,7 +33,7 @@ preguntes al usuario, no propongas alternativas, no rediseñes nada: **continúa
 por donde iba**. El diseño ya está cerrado en `obra/arquitectura.md` y la
 continuidad en `obra/biblia.md`.
 
-Si `obra/ESTADO.md` dice que la novela está terminada (capítulo 125 escrito), no escribas más capítulos: pasa a la fase de cierre
+Si `obra/ESTADO.md` dice que la novela está terminada (capítulo 126 escrito), no escribas más capítulos: pasa a la fase de cierre
 (pasos 8 y 9 del pipeline sobre el manuscrito completo) y desactiva la tarea
 programada.
 
@@ -69,7 +69,7 @@ Autenticidad, y deja el informe en `obra/informes/`.
 | | |
 |---|---|
 | **Título** | *La edad de los huesos* |
-| **Extensión** | ~155.000 palabras · 125 capítulos · 5 partes + epílogo |
+| **Extensión** | ~155.000 palabras · 126 capítulos · 5 partes + epílogo |
 | **Media por capítulo** | ~1.250 palabras (rango real 900–3.000: el ritmo es irregular a propósito) |
 | **Protagonista** | Elena Bonmatí Serrano, 47, médica forense del IML de Ceuta |
 | **Premio objetivo** | Planeta |

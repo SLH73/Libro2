@@ -438,7 +438,7 @@ un mono al irse. **Rachid**, capataz de Fnideq que no dejaba subir a los menores
 - **Cap 78, LA BISAGRA**: la fractura de estiloides cubital en la placa del altillo.
   Ver la nota añadida en `obra/arquitectura.md` antes de la ficha 079.
 
-### Capítulos 79-125 (cierre de la novela)
+### Capítulos 79-126 (cierre de la novela)
 
 **Personajes nuevos o consolidados:**
 - **Chelo**, técnica de Radiología del Hospital Universitario. 28 años en el
@@ -456,7 +456,7 @@ un mono al irse. **Rachid**, capataz de Fnideq que no dejaba subir a los menores
 - **Ismael Padilla**, forense joven. Pide prórroga en 2027 y 2028 y en 2029 saca la
   plaza definitiva de Ceuta, que sale desierta todos los años (cap 120). Tic: dos
   clics con el bolígrafo cuando algo le parece mal y no lo dice (establecido
-  13-VIII-2026, nombrado en el cap 120, **pagado por inversión en el cap 122**:
+  13-VIII-2026, nombrado en el cap 121, **pagado por inversión en el cap 123**:
   esta vez no hace clic, lo dice).
 - **Ayoub Bouhlal**, expediente 2.948, 15 años según él, de Beni Mellal (caps
   121-122). No sabe el día de su nacimiento: lo sitúa *«después de la siega»*.
@@ -478,17 +478,17 @@ un mono al irse. **Rachid**, capataz de Fnideq que no dejaba subir a los menores
   mismo mecanismo que nueve años*.
 - **Cap 116 (8-VII-2027)**: se resuelve el expediente disciplinario. Suspensión de
   funciones de **24 meses: 1-VIII-2027 → 31-VII-2029**.
-- **Cap 120 (julio 2029)**: en la suspensión Elena da clases de FP (ciclo de
+- **Cap 121 (julio 2029)**: en la suspensión Elena da clases de FP (ciclo de
   emergencias sanitarias, 12 h y luego 18 h) y revisa **4.811 informes históricos**
   de edad para la Universidad de Cádiz, sin cobrar. Padilla lleva 42 informes
   firmados por debajo de 16 en tres años. Elena cumple **50 años en abril de 2029**.
-- **Cap 121 (6-VIII-2029)**: primera exploración tras la reincorporación (1-VIII).
+- **Cap 122 (6-VIII-2029)**: primera exploración tras la reincorporación (1-VIII).
   La sala es ahora la **Sala 3** de la planta baja, reformada en 2028. El atlas
   sigue siendo Greulich y Pyle, 2.ª ed. de 1959. Padilla pidió bibliografía
   actualizada dos veces (2027, 2028): *no consta partida presupuestaria*.
   Volumen: 1.800 exploraciones en 2026 · 600 en 2027 · 320 en 2028 · 191 hasta
   agosto de 2029. Total desde el 3-VIII-2026: **2.947 expedientes**.
-- **Cap 122, EL GIRO FINAL**: de los 4.811 informes revisados, la Fiscalía se apartó
+- **Cap 123, EL GIRO FINAL**: de los 4.811 informes revisados, la Fiscalía se apartó
   del número del forense **16 veces** (3 ‰) y un forense escribió *no es posible
   determinar* **11 veces**; de esas 11, en 9 se ordenó segunda exploración y en 8 el
   segundo puso 18. Las dos que quedaron eran del mismo médico, **Jesús María Otero**,
@@ -499,7 +499,7 @@ un mono al irse. **Rachid**, capataz de Fnideq que no dejaba subir a los menores
   **imprime, tacha la casilla, escribe a mano *No determinable. Véase valoración*,
   firma y lo sube como documento adjunto**. Once minutos. **Elena desaparece del
   libro aquí**: «Y aquí esta historia ya deja de ser suya.»
-- **Cap 123**: los tres cuadernos. Bernal (391 devoluciones en 24 años, cuatro
+- **Cap 124**: los tres cuadernos. Bernal (391 devoluciones en 24 años, cuatro
   libretas de hule, la primera del estanco de la esquina por 2,20 €; se jubila el
   14-III-2030, viernes). Hicham (guardés de Sidi Embarek desde 1992; tres cuadernos
   de contabilidad; **cuatro familias en 38 años, dos consiguieron el nombre**: una
@@ -508,13 +508,13 @@ un mono al irse. **Rachid**, capataz de Fnideq que no dejaba subir a los menores
   los pidió, una abogada de Nantes, mayo de 2029: cuaderno seis, página 61, renglón
   14; el hermano estaba vivo en Alemania). El cuarto cuaderno era del Estado: la
   malla de emisoras del 30-VII, 411 entradas.
-- **Cap 124**: Anuar nació el **4-11-2011 según el papel**, pero su madre solo sabe
+- **Cap 125**: Anuar nació el **4-11-2011 según el papel**, pero su madre solo sabe
   que fue «cuando hacía frío», y la fecha la puso un funcionario del registro meses
   después. En el papel de Yassin pone marzo y su madre dice que nació en la trilla.
   **La fecha de nacimiento de Anuar es tan inventada como la casilla de Elena.**
   Anuar = *el que da más luz*; era el nombre del abuelo materno. Su madre le escribió
   el nombre con rotulador en la goma del pantalón la última noche.
-- **Cap 125 (última página)**: un viernes de abril de 2026 en Beni Mellal. *msemen*,
+- **Cap 126 (última página)**: un viernes de abril de 2026 en Beni Mellal. *msemen*,
   22 minutos hasta el taller, una soldadura que le sale bien, Hamid que no dice nada
   (que es como dice que está bien), medio pan en el muro. Últimas cuatro líneas:
   *Es viernes. / Es abril. / Tengo catorce años. / Y hace sol.* El único sitio del
@@ -524,7 +524,7 @@ un mono al irse. **Rachid**, capataz de Fnideq que no dejaba subir a los menores
 en el bolsillo (52) · si Anuar tendrá nombre (113) · si Elena va a contarlo (88, 103) ·
 qué hizo Robles en el Tarajal (89, 104) · la fractura de estiloides (78 → 93) · la
 radiografía ilegal y Chelo (81 → 94) · las tres conversaciones de Robles en agosto de
-2017 (25, 89) · la mentira a Cañete sobre 2017 (20, 88) · la casilla (122).
+2017 (25, 89) · la mentira a Cañete sobre 2017 (20, 88) · la casilla (123).
 
 ---
 
@@ -543,5 +543,22 @@ radiografía ilegal y Chelo (81 → 94) · las tres conversaciones de Robles en 
    de 2027) y 119 (enero de 2028). Es la convención establecida desde el principio:
    los capítulos [VOZ] flotan fuera de la línea temporal. Verificar en maqueta que
    la marca de línea es visible en el índice.
-4. **Extensión final: 142.263 palabras frente a un objetivo de 155.000.** No se
-   corrige alargando capítulos. Ver el informe editorial del bloque 5.
+4. **Extensión final: 144.020 palabras en 126 capítulos, frente a un objetivo nominal
+   de 155.000.** No se corrige alargando capítulos: el dictamen de cierre
+   (`obra/informes/editorial-05.md` §6) recomienda cerrar en torno a 146.000 y ganar
+   las palabras que falten convirtiendo resúmenes en escena (caps 100, 107, 112/116,
+   118, 119).
+5. **Renumeración de la sesión de cierre.** Se insertó el capítulo **120 · El aula**
+   (mayo de 2028, dentro de la suspensión) por indicación del informe editorial 05 §4,
+   y los antiguos 120-125 pasaron a 121-126. Las fichas 108-120 de
+   `obra/arquitectura.md` se reescribieron para que coincidan con el manuscrito. Los
+   informes `editorial-05.md` y `autenticidad-05.md` se redactaron con la numeración
+   antigua: **sus caps 120-125 son ahora 121-126**.
+6. **Cap 120 (nuevo)**: Isidro Almazán, 61, director del centro de FP de la barriada
+   de la Libertad. **Ilias Bakkali**, 18 en 2028, de Tánger: exploración el 9-VIII-2026,
+   le pusieron 18 teniendo 16 y 2 meses; polideportivo hasta septiembre, calle hasta
+   noviembre, nave de Loma Colmenar, y en enero de 2027 una asociación de la calle
+   Independencia le consiguió la plaza. **Nadia**, 17, la que hace la pregunta.
+   Elena tiene un ejemplar propio del atlas, comprado en una librería de viejo de
+   Cádiz en 2019 por 18 euros. Elena ha firmado **~4.100 informes de edad entre 2017
+   y 2027** (dato unificado en los caps 120 y 122).

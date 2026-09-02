@@ -1,4 +1,4 @@
-## 121. Un chico de la cola
+## 122. Un chico de la cola
 
 *Agosto de 2029*
 
@@ -112,7 +112,7 @@ El impreso pregunta por orden y hay que ir por orden, porque si uno se salta un 
 
 Elena tenía el bolígrafo encima del impreso y no lo movió.
 
-Había firmado, entre 2017 y 2027, cuatrocientos y pico informes de chavales, y de esos, treinta y tantos de Beni Mellal, que es una ciudad de medio millón de habitantes en mitad de Marruecos de la que sale gente hacia el norte desde hace cuarenta años; y le había pasado ya cuatro o cinco veces que la palabra le llegara así, sin aviso, en una mañana cualquiera, y se había acostumbrado a que se le pasara sola en dos o tres segundos si no hacía nada.
+Había firmado, entre 2017 y 2027, cuatro mil ciento y pico informes de chavales, y de esos, ciento y pico de Beni Mellal, que es una ciudad de medio millón de habitantes en mitad de Marruecos de la que sale gente hacia el norte desde hace cuarenta años; y le había pasado ya cuatro o cinco veces que la palabra le llegara así, sin aviso, en una mañana cualquiera, y se había acostumbrado a que se le pasara sola en dos o tres segundos si no hacía nada.
 
 Hizo lo de siempre, que era nada.
 

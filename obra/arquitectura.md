@@ -589,61 +589,83 @@ que el encargado dicta semanas después.) *Silencio.*
 **107 bis / dentro del 108 · Benzú.** Rueda se muere sin arrepentirse de nada y
 sabiéndolo todo. Quién se queda con Sultán.
 
-**108 · La caja de debajo de la ventana · [2027] · 1.900.** Los cuarenta y tres
-expedientes vuelven al archivo. *Giro.*
+> **Reconciliación del plano con el manuscrito (sesión de cierre).** Las fichas 108-120
+> se reescriben aquí para que coincidan con lo que se escribió: la caja de los
+> expedientes se fundió con la escena de Benzú (108), la placa y el Registro Civil se
+> resolvieron dentro del bloque de la resolución y de Sidi Embarek, y el viaje a Beni
+> Mellal se cuenta desde allí en la voz de Yassin (114) en lugar de en tercera persona.
+> Además se **añade la ficha 120 (El aula)**, capítulo nuevo pedido por el informe
+> editorial 05 §4, y se **desdobla la última ficha de Anuar en dos** (125 y 126). El
+> plano pasa de 125 a **126 capítulos**.
 
-**109 · Cuarenta y dos cartas · [2027] · 2.300.** Elena escribe a todos. Tres
-respuestas: un insulto, un silencio y la foto de una boda. *Giro.*
+**108 · Benzú en marzo · [2027] · 1.900.** Los cuarenta y tres expedientes vuelven al
+archivo, y la caja de debajo de la ventana se cierra en el sitio donde empezó todo.
+*Giro.*
+
+**109 · Cuarenta y dos cartas · [2027] · 1.300.** Elena escribe a todos. Tres
+respuestas: un insulto en mayúsculas a las dos y cuarenta de la madrugada, un mensaje
+desde un número francés y una tercera. *Giro.*
 
 **110 · Milagros · [2027] · 1.600.** *Silencio.*
 
-**111 · La placa · [2027] · 2.000.** Lo que hay que mover para cambiar un número por
-un nombre en una piedra. Hicham, el albañil, el presupuesto. *Gancho.*
+**111 · El tres de abril · [2027] · 1.100.** La expulsión de Yassin, contada fuera de
+su sitio y reconociendo la elipsis en la primera línea. *Giro.*
 
-**112 · Beni Mellal · [2027] · 2.400.** **Mundo físico obligatorio.** Alguien va: el
-escalón sin barrer, el taller de Hamid, los guantes en el cajón, los trescientos
-dírhams debajo del colchón. *Silencio.*
+**112 · La resolución · [2027] · 900.** El archivo de la causa. Lo que queda escrito y
+lo que no llega a escribirse nunca. *Gancho.*
 
-**113 · Registro Civil · [2027] · 2.400.** La ratificación y la inscripción. Anuar El
-Founti Ouhaddou, nacido en Beni Mellal el 4 de noviembre de 2011, fallecido en Ceuta
-el 30 de julio de 2026. Catorce años. *Silencio.*
+**113 · Sidi Embarek · [2027] · 1.000.** La lápida: Anuar El Founti Ouhaddou, nacido en
+Beni Mellal el 4 de noviembre de 2011, fallecido en Ceuta el 30 de julio de 2026.
+Catorce años. Cinco personas y un albañil, un sábado, en veinte minutos. *Silencio.*
 
-**114 · Sidi Embarek · [2027] · 1.800.** La lápida. Cinco personas y un albañil.
+**114 · Voz: Yassin III · [VOZ] · 900.** Beni Mellal desde dentro: el escalón sin
+barrer, el taller de Hamid, la foto del cajón. No la perdona y tampoco la condena.
+*Giro.*
+
+**115 · Anuar · [ANUAR] · 550.** La balsa de riego de Aït Ourir. Aprender a nadar.
 *Silencio.*
 
-**115 · Voz: Yassin III · [VOZ] · 1.300.** Se va. No la perdona y tampoco la condena:
-le da las gracias, que es peor. *Giro.*
+**116 · La resolución del expediente · [2027] · 900.** Dos años de suspensión de
+funciones. *Gancho.*
 
-**116 · Anuar · [ANUAR] · 1.000.** La balsa de riego de Aït Ourir. Aprender a nadar.
+**117 · Voz: Chaimae II · [VOZ] · 900.** Aprobó. Y lo que ha decidido hacer con eso.
 *Silencio.*
 
-**117 · La resolución · [2027] · 2.100.** El expediente disciplinario se resuelve.
-*Gancho.*
-
-**118 · Voz: Chaimae II · [VOZ] · 1.200.** Aprobó. Y lo que ha decidido hacer con
-eso. *Silencio.*
-
-**119 · Loma Colmenar, un año después · [2027] · 2.000.** La nave. Quiénes quedan.
+**118 · Loma Colmenar, un año después · [2027] · 750.** La nave. Quiénes quedan.
 *Silencio.*
 
-**120 · El informe que nadie leyó · [2028] · 1.900.** Los cuatro folios de agosto
+**119 · El informe que nadie leyó · [2028] · 850.** Los cuatro folios de agosto
 aparecen citados donde no se esperaba. *Giro.*
 
-**121 · Padilla · [2027] · 1.800.** Pide traslado. Lo que le dice al despedirse.
+**120 · El aula · [2028] · 1.400.** Ciclo de FP de emergencias sanitarias, veintiséis
+chavales de diecisiete a diecinueve años a las siete y cuarto de la tarde. Ilias, al
+que le pusieron dieciocho en agosto de 2026 teniendo dieciséis. El martes siguiente
+Elena lleva su propio atlas al aula y lo pasa de mano en mano; se buscan y no se
+encuentran. Nadia pregunta por qué se usa y Elena no sabe contestar. **Tarda un año y
+tres meses en contestarlo: lo hace en el margen de un impreso.** *Gancho hacia el 123.*
+
+**121 · Padilla · [2029] · 1.800.** Pide traslado. Lo que le dice al despedirse.
 *Silencio.*
 
-**122 · Un chico de la cola · [2027] · 2.000.** Sala de exploración. Muñeca izquierda.
+**122 · Un chico de la cola · [2029] · 2.000.** Sala de exploración. Muñeca izquierda.
 El atlas abierto por la misma página. *Gancho.*
 
-**123 · La firma · [2027] · 1.800.** *No es posible determinar la edad de este niño.*
+**123 · La firma · [2029] · 1.800.** *No es posible determinar la edad de este niño.*
 Y como el Estado no puede contarlo, tendrá que presumir que es menor. Una firma. No
 salva al mundo: salva a uno. **Aquí desaparece Elena del libro.** *Giro.*
 
-**124 · Los que cuentan · [2027] · 1.700.** Bernal, Hicham, Yeray y sus cuadernos. El
+**124 · Los que cuentan · [2029-30] · 1.700.** Bernal, Hicham, Yeray y sus cuadernos. El
 libro se despide de los que apuntaban. *Silencio.*
 
-**125 · Anuar I · [ANUAR] · 1.400.** Beni Mellal, la mañana que se fue. Hace sol. Su
-madre le ha hecho pan. Va contento. **No sabe nada de lo que sabe el lector.**
+**125 · Anuar · [ANUAR] · 950.** *Mi nombre.* Cómo se escribe, quién se lo puso, y que
+la fecha de su nacimiento la inventó un funcionario del registro meses después, igual
+que la casilla. Su madre se lo escribió con rotulador en la goma del pantalón.
+*Silencio.*
+
+**126 · Anuar I · [ANUAR] · 1.200.** Beni Mellal, un viernes de abril de 2026. Hace
+sol. Su madre le ha hecho *msemen*. Veintidós minutos hasta el taller, una soldadura
+que le sale bien, medio pan en el muro. **No sabe nada de lo que sabe el lector.**
+Últimas cuatro líneas: *Es viernes. Es abril. Tengo catorce años. Y hace sol.*
 *Silencio.*
 
 ---
