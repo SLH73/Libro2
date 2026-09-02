@@ -86,23 +86,38 @@ un negatoscopio.
 
 ## 3. La densidad de diálogo se derrumba justo en la parte V
 
-De 778 rayas en los capítulos 76-100 a **401** en los 101-125. Casi la mitad. Y hay
-tres capítulos con **cero** rayas relativamente juntos: 109, 117 y 124 (el 124 es
-Anuar y está bien así; los otros dos no tienen coartada).
+Normalizado —descontando los capítulos de Anuar y [VOZ], que son monólogos por diseño y
+no llevan raya— la densidad por mil palabras es:
 
-Esto es la reincidencia del defecto del informe 04 por otro camino: allí el problema era
-que la novela se había convertido en la conciencia de Elena; aquí, que se ha convertido
-en su archivo. Cambia el registro, no el vicio: sigue faltando gente hablando en una
-habitación.
+| capítulos | capítulos escénicos | rayas / 1.000 palabras |
+|---|---|---|
+| 1-25 | 21 de 25 | 17 |
+| 26-50 | 20 de 25 | 24 |
+| 51-75 | 20 de 25 | 27 |
+| 76-100 | 22 de 25 | 31 |
+| **101-125** | **18 de 25** | **20** |
 
-**Solución.** El capítulo 109 (las cuarenta y dos cartas) es el que más lo pide. Está
-escrito como una estadística de las cartas —once sin dirección, nueve en redes, cuatro
-en el padrón, dos muertos, dieciséis desaparecidos— y esa estadística es magnífica; pero
-el capítulo debería terminar con **una respuesta**, una sola, leída en voz alta. Ya
-existen las voces de Hamza y de Rachid en el material del bloque 3: aquí tienen su sitio
-natural.
+Caída del 35 % respecto al bloque anterior, y encima con cuatro capítulos escénicos
+menos. La parte V tiene la densidad dialogal de la parte I, cuando debería tener la de
+la IV: el libro empieza siendo un caso y termina siendo un archivo.
 
----
+Los tres capítulos finales son los más secos del manuscrito entero: **121** (16 rayas en
+1.962 palabras = 8 por mil), **122** (16 en 1.545 = 10) y **123** (7 en 1.690 = 4). En
+el 122 está justificado —el capítulo es un acto administrativo y su fuerza es la
+frialdad— y el intercambio con Padilla al final basta. En el **121** no: hay un chaval
+delante, un intérprete que no ha venido y un técnico traduciendo mal, y esa es una
+escena de diez réplicas que está resuelta en cuatro.
+
+**Solución.** Ampliar la exploración del cap 121 con la conversación real: las preguntas
+del protocolo, las traducciones que vuelven mal, las dos veces que hay que reformular
+para preguntar por un día que no existe. Es donde el libro puede mostrar —sin decirlo—
+que el procedimiento entero se sostiene sobre una conversación imposible.
+
+*(Nota de corrección: la primera versión de este informe proponía cerrar el cap 109 con
+una respuesta leída en voz alta. Es innecesario: el capítulo ya contiene las tres
+respuestas —el correo en mayúsculas de Abdelilah Saadi, el mensaje desde el número
+francés y la tercera— y funciona. La ausencia de rayas ahí es formato de carta, no falta
+de escena.)*
 
 ## 4. Once meses ocupan cien capítulos; dos años ocupan 786 palabras
 
@@ -185,7 +200,7 @@ Poco, y esto es un elogio. Tres cosas:
 
 1. Escena en el cap 93 (la revelación necesita un testigo). **Impacto máximo.**
 2. Escribir el capítulo de 2028 dentro de la suspensión (§4a).
-3. Cerrar el cap 109 con una respuesta leída en voz alta.
+3. Ampliar la exploración del cap 121 con la conversación real (§3).
 4. Convertir 112 o 116 en escena.
 5. Dar cuerpo a 100, 107, 118 y 119.
 6. Decidir el cap 66.
