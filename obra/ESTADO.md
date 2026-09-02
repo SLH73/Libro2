@@ -1,23 +1,23 @@
 # ESTADO DE LA OBRA
 
 > Fichero generado por `scripts/estado.sh`. **Es lo primero que lee cada sesión.**
-> Última actualización: 2026-09-02 15:24 UTC
+> Última actualización: 2026-09-02 15:25 UTC
 
 | | |
 |---|---|
 | **Fase** | EN PRODUCCIÓN |
-| **Palabras escritas** | **94355** / 200000 (47 %) |
-| **Palabras restantes** | 105645 |
-| **Capítulos escritos** | 79 / 125 |
-| **Último capítulo cerrado** | obra/capitulos/079-anuar-iii.md |
-| **SIGUIENTE CAPÍTULO A ESCRIBIR** | **080** |
-| **Media escrita hasta ahora** | 1194 palabras/capítulo |
-| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **2296 palabras/capítulo** |
+| **Palabras escritas** | **95443** / 200000 (47 %) |
+| **Palabras restantes** | 104557 |
+| **Capítulos escritos** | 80 / 125 |
+| **Último capítulo cerrado** | obra/capitulos/080-la-muneca-izquierda.md |
+| **SIGUIENTE CAPÍTULO A ESCRIBIR** | **081** |
+| **Media escrita hasta ahora** | 1193 palabras/capítulo |
+| **MEDIA NECESARIA DE AQUÍ AL FINAL** | **2323 palabras/capítulo** |
 
 ## ⚠️ Aviso de ritmo
 
-Quedan **105645 palabras** repartidas en **46 capítulos**. Eso obliga
-a una media de **2296 palabras por capítulo** de aquí al final.
+Quedan **104557 palabras** repartidas en **45 capítulos**. Eso obliga
+a una media de **2323 palabras por capítulo** de aquí al final.
 
 Las fichas de `obra/arquitectura.md` dan la extensión *relativa* de cada capítulo
 (cuál es largo y cuál es corto, y eso no se toca: el ritmo irregular es una
@@ -31,14 +31,14 @@ un capítulo y se nota al final del libro.
 
 ## Qué tienes que hacer ahora
 
-Escribe el capítulo 080 siguiendo obra/arquitectura.md, **con una extensión de al menos 2296 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 81. Sin parar.
+Escribe el capítulo 081 siguiendo obra/arquitectura.md, **con una extensión de al menos 2323 palabras** (ver el aviso de ritmo de abajo). Commit y push inmediatamente después. Luego el 82. Sin parar.
 
 ## Recordatorio
 
-1. Lee la ficha del capítulo 080 en `obra/arquitectura.md`.
+1. Lee la ficha del capítulo 081 en `obra/arquitectura.md`.
 2. Lee `obra/biblia.md` y los dos últimos capítulos escritos para no romper continuidad.
-3. Escribe en `obra/capitulos/080-titulo-en-kebab.md`.
-4. `bash scripts/estado.sh && git add -A && git commit -m "cap 080: ..." && git push -u origin claude/libro-200k-agentes-automaticos-28lkqx`
+3. Escribe en `obra/capitulos/081-titulo-en-kebab.md`.
+4. `bash scripts/estado.sh && git add -A && git commit -m "cap 081: ..." && git push -u origin claude/libro-200k-agentes-automaticos-28lkqx`
 5. Vuelve al punto 1 con el capítulo siguiente. No pares hasta que se corte la sesión.
 
 ## Notas dejadas por la sesión anterior
