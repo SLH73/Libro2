@@ -67,22 +67,32 @@ Si esos seis capítulos recuperan la media del primer bloque, el manuscrito sube
 
 ---
 
-## 2. La revelación mayor del libro llega sin una sola voz
+## 2. La revelación del cap 93 — retirado tras releer el 94
 
-**Cap 93 · El antebrazo.** Es el giro central: Elena ve en el borde de la placa la
-fractura de estiloides cubital que no vio en agosto *porque estaba buscando una edad*.
-El capítulo tiene menos de tres rayas de diálogo.
+*Este apartado decía, en la primera versión del informe, que el giro central del libro
+—Elena viendo en el borde de la placa la fractura de estiloides cubital que no vio en
+agosto porque estaba buscando una edad— llegaba «sin una sola voz», y proponía meter a
+Cifuentes o a Padilla en la habitación para que ella lo dijera en alto y alguien pudiera
+no creerla.*
 
-Una revelación narrada es información. Una revelación dicha en voz alta delante de
-alguien es drama, porque introduce la única cosa que la información no tiene: la
-posibilidad de no ser creída.
+**El apartado era falso y lo retiro.** Estaba fundado en el recuento de rayas del cap 93
+sin haber releído el 94, que es su continuación inmediata y hace exactamente eso: el
+viernes 12 de febrero a las ocho de la mañana Elena llama a Cifuentes y se lo cuenta
+todo en cuarenta y un minutos; Cifuentes lo escucha entero, valida la mecánica pieza por
+pieza —la avulsión, el brazo contralateral, la carga en el asta izquierda, la superficie
+ancha sin lesión cutánea— y a continuación le dice que es una hipótesis compatible y no
+una prueba, y que las tres palabras del margen son lo mejor que ha hecho en seis meses.
+Cuarenta y siete rayas de diálogo.
 
-**Solución.** Meter a Cifuentes o a Padilla en la habitación durante los últimos dos
-tercios del capítulo. Que ella lo diga en alto. Que el otro tarde en verlo. Que el
-*«No estoy segura»* del final —que es la línea perfecta— se lo diga a una cara y no a
-un negatoscopio.
+El 93 tiene que estar solo. Su fuerza es que la operación entera —coger un hueso,
+compararlo con un modelo, producir una vida— se hace en una mesa de cocina sin nadie
+delante, porque es la misma soledad de la sala de exploraciones; y el *No estoy segura*
+escrito en vertical en el margen no puede decírsele a nadie: hay que verla escribirlo.
+Meter un testigo ahí destruiría el paralelismo que sostiene la tesis del libro.
 
----
+**No se toca ninguno de los dos capítulos.** Queda como advertencia metodológica para
+las rondas que vengan: en este manuscrito el recuento de rayas por capítulo aislado no
+mide nada, porque la unidad de escena es con frecuencia el par de capítulos.
 
 ## 3. La densidad de diálogo se derrumba justo en la parte V
 
@@ -198,12 +208,11 @@ Poco, y esto es un elogio. Tres cosas:
 
 ## 8. Prioridades, por orden
 
-1. Escena en el cap 93 (la revelación necesita un testigo). **Impacto máximo.**
-2. Escribir el capítulo de 2028 dentro de la suspensión (§4a).
+1. Escribir el capítulo de 2028 dentro de la suspensión (§4a). **Impacto máximo.**
 3. Ampliar la exploración del cap 121 con la conversación real (§3).
 4. Convertir 112 o 116 en escena.
 5. Dar cuerpo a 100, 107, 118 y 119.
 6. Decidir el cap 66.
 7. Las seis sustituciones de §5.
 
-Con 1, 2 y 3 hechos, el manuscrito está listo para presentarse.
+Con 1 y 2 hechos, el manuscrito está listo para presentarse.
