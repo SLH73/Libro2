@@ -224,3 +224,96 @@ una devolución, y necesito que el papel que me llega de ustedes sea verdad».
   vivo: si Elena se lo cuenta, Cifuentes vuelve.**
 - Elena no ha escrito «no lo sé» en veintitrés años (26) → paga en el 99.
 - Julia: «¿y si son diez mil?» (24).
+
+### Capítulos 27-52 (sesión 1)
+
+**Personajes nuevos:**
+- **Chelo**, técnica de Radiología, 22 años en el hospital, número de trabajadora
+  **4471** desde 1998. Hizo la placa ilegal de Driss. «Una. Y no me lo vuelvas a
+  pedir en tu vida.»
+- **Emilio Cepeda**, 62, presidente de la Ciudad Autónoma (ficticio). **Paco
+  Trujillo**, 54, presidente de la confederación de federaciones deportivas,
+  entrenador de balonmano base 22 años: gana su discusión en el pleno.
+- **Ignacio Berenguer**, 53, abogado, calle Beatas de Málaga, encima de una tienda
+  de instrumentos. 28 años de ejercicio. Personado por un cliente que no puede
+  probar que existe.
+- **Encarna Cañete**, 63, de Utrera, mujer de Fredo. Hace un arroz por el que la
+  gente hace cola.
+- **Marta Loureiro**, ~45, abogada de disciplinarios en Ceuta. Cactus muerto en la
+  ventana. «Usted lo va a convertir en algo.»
+- **Alberto Sanchidrián Vega**, 58, forense de Cádiz, instructor del expediente.
+- **Hicham**, 61, guardés de Sidi Embarek desde 1992. Tiene un cuaderno.
+- **Hamza El Yazidi**, 25, 2017/0415-E, electricista en Salt (Girona), una hija.
+  «A mí no me arruinó usted la vida. Pregúnteselo a los que no.»
+- **Rachid Benali**, 27, 2017/0428-E, logística en Fuenlabrada. «Yo pensaba que era
+  yo solo.»
+- **Lamine Touré**, 2017/0411-E, † 3-II-2019, atropellado en la N-340 en Vícar.
+- **Rachida Ouhaddou**, 49, viuda desde 2019, cose en casa, Ouled Ayad (Beni
+  Mellal). Lleva sin barrer el escalón desde el 26 de julio.
+- **Mohamed Ait Baqqa**, el chico de la carta de 2016 a Rueda.
+- **Hamid Bouazza**, dueño del taller de Beni Mellal. **Paco**, celador del hospital
+  desde 1991.
+
+**Datos duros fijados:**
+- **La radiografía ilegal de Driss** (18-VIII): atlas = 18, edad real 16. La carga
+  mecánica acelera la fusión epifisaria: cuanto antes te ponen a trabajar, antes
+  dice el Estado que eres mayor. Guardada en el altillo bajo la agenda de 2017,
+  con «dieciocho» a lápiz en el sobre. **45 días ahí.**
+- **Los cuatro folios** (31-VIII, con número de registro): el Instituto solo mide a
+  quien le remiten, luego ninguna cifra global tiene base técnica; y la prueba
+  produce «la desaparición administrativa» de menores que no entran por miedo.
+  Respuesta de la Fiscalía (14-IX): mandarla a examinar a Loma Colmenar.
+- **La inhumación**: providencia de 2-IX, ocho cuerpos no identificados enterrados
+  el **18-IX** en Sidi Embarek, zona nueva. Anuar es la **séptima tumba contando
+  desde el ciprés, cuarta fila desde el muro**. Concesión de beneficencia: 5 años
+  sobre el papel, 10-12 en la práctica. Para cambiar el número por un nombre hace
+  falta papel del juzgado o del Registro. Hicham: tres familias en 34 años, una lo
+  consiguió.
+- **Rachida no puede entrar en Ceuta**: el régimen sin visado es solo para
+  residentes de la provincia de Tetuán. Beni Mellal está a 600 km.
+- **La foto de carné**: cuatro copias en una máquina de Beni Mellal. Anuar se llevó
+  dos y dejó dos. Detrás de la que quedó, de su puño: *para el papel del taller.
+  Anuar El Founti. 4-11-2011.*
+- **La libreta de hule de Bernal**, desde 2006: apunta los efectos personales que
+  **devuelve**, no los que entran. Junto a 2017/0431-E hay tres fechas:
+  *22-VIII-2017 / 14-III-2019 / 30-VII-2026*, y detrás: *no venía a firmar*.
+- **La malla de emisoras del 30-VII** (411 entradas): todo el dispositivo estuvo en
+  la zona este. El nº 7 aparece a las **07:52 en la zona oeste**, la única entrada
+  de la noche allí. Murió entre las 05:20 y las 06:20. **Alguien tuvo el cuerpo
+  dos horas.**
+- **La fibra azul**: polipropileno de cabo trenzado de tres cabos, la misma bajo la
+  uña del 3.er dedo izquierdo y en la arena de la espalda. Dos lecturas posibles:
+  una cuerda que estranguló y arrastró, o **el cabo de un bidón azul**. Elena
+  escribe las dos sin subrayar ninguna.
+- **La carta de Mohamed Ait Baqqa** (21-V-2017), dirigida a «el médico de la mano»:
+  *¿usted pensó que yo tenía dieciocho, o usted no lo sabía?* Rueda nunca contestó
+  y borró la dirección con un vaso de agua en 2018. Ahora la tiene Elena.
+- **Por qué Rueda no firmó ni uno en 2017**: dejó de firmar por esa carta y le pasó
+  los 26 expedientes de julio a la recién llegada sin decirle una palabra.
+- **El expediente**: información reservada incoada el 12-X por hechos entre 2015 y
+  2026. Comparecencia **martes 20 de octubre, 10:00**. Y lo destapó **la propia
+  Elena**, al remitir en septiembre la relación de firmantes que pidió la Fiscalía.
+- **Robles le retiró la pericia el 19-IX para protegerla**: una perito bajo
+  investigación disciplinaria tumba su propio informe en sala.
+
+**EL GIRO MEDIO (cap 52) — lo que hay que respetar de aquí al final:**
+- Yassin llevaba el informe de 2017 encima **nueve años** porque era **el único
+  papel del mundo con su nombre y un sello de España**. No probaba su edad:
+  probaba que había existido. Se lo metió en el bolsillo a su hermano y con eso se
+  quedó él sin nada.
+- Sacó a Anuar del agua a las 07:15, lo tuvo en seco «mucho», le puso el papel y lo
+  **empujó hacia la zona de los focos** para que lo encontraran, porque un hombre
+  sin papeles no puede aparecer en una playa con un muerto. Miró desde la carretera
+  hasta que lo rodeó la gente.
+- **No quiere venganza ni justicia: quiere que en el cementerio ponga el nombre**,
+  para que su madre pueda decirle a la gente dónde está su hijo.
+- Su consejo a Elena: «lo que se calla se pudre», y acto seguido reconoce que le
+  conviene que ella hable. Esa honradez es el personaje.
+- No bajó en el cementerio **porque la vio escribir** y pensó que estaba apuntando
+  dónde estaba su hermano. «Y no quise molestar.»
+
+**Promesas abiertas nuevas:** el cliente de Berenguer dijo «yo también tengo que
+decir cosas que me van a costar caras» (49) → paga en el 82. Padilla quiso firmar
+los cuatro folios con ella y Elena no le dejó (35) → paga en el 90. Rueda: «cuéntelos»
+(51) → paga en el 103. Driss, en el 48, **confiesa al lector sin confesar**: se subió
+encima de unos hombros y repite demasiadas veces que podía ser cualquiera.
