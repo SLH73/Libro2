@@ -164,3 +164,63 @@ mentira de Elena. La función dramática se mantiene.
   edad emitidos en Ceuta desde 2015 con el nombre del firmante. Paga en el 62.
 - Cap 15: la delegada **gana su discusión** (el error contrario: adultos dentro de
   un centro con niños de doce). Cumplido el requisito del brief.
+
+### Capítulos 18-26 (sesión 1)
+
+**Personajes nuevos:**
+- **Ismael Padilla**, 31, forense sustituto llegado de Málaga el 13-VIII. Dos años
+  de plaza. Mejor forense a los 31 de lo que fue Elena. Tic: hace clic dos veces
+  con el bolígrafo y se lo guarda cuando algo le parece mal y no lo dice. Cruzaría
+  Greulich y Pyle con **Tanner-Whitehouse**, que da desviación menor y permite dar
+  el resultado como rango; aquí no se puede: ocho minutos por caso.
+- **Dra. Pilar Cifuentes**, 56, forense del IML de Cádiz, 28 años de ejercicio.
+  Perito de ratificación. **No firma nunca por debajo ni por encima de lo que
+  sabe.** Es quien planta, de pasada, la solución verdadera del libro.
+- **El chico de la Almadraba**, ~20, ceutí, lleva desde el 1-VIII una lista a mano
+  de los que llegan a la cola del SAMU. «Mi lista es mi lista. No es la verdad.»
+- **Rachida Ouhaddou**: madre de Yassin y Anuar (ficha de 2017).
+
+**Datos duros fijados:**
+- Yassin es **2017/0431-E, el último informe de aquel verano**. La serie va del
+  **0389 (3-VII-2017) al 0431 (4-VIII-2017)**: cuarenta y tres, todos firmados
+  EBS, ninguno de Rueda. Después, **seis semanas sin una sola determinación de
+  edad** hasta el 19-IX-2017. (Reconciliación: 26 en julio + 17 en los cuatro
+  primeros días de agosto, que fue el pico.)
+- El **registro de accesos al archivo** lo puso Elena en 2019. Última entrada
+  ajena: *02/08/2026 · M. Rueda · retirada de documentación propia*. Rueda se
+  jubiló en septiembre de 2019 y entregó la llave delante de ella. **Tiene una
+  copia.** Paga en el 32 y el 56.
+- **El sobre anónimo** (cap 23): nueve nombres con expediente 2017/04xx y la
+  frase *ESTOS NUEVE VOLVIERON. LOS OTROS TREINTA Y CUATRO NO SÉ.* El 0430 es el
+  informe inmediatamente anterior al de Yassin.
+- **El circuito de las pruebas**: identificación con pulsera de papel en la muñeca
+  DERECHA (la izquierda es la de la placa) → Rayos planta baja → aula tercera
+  planta. 26 minutos de recorrido, 5 a 9 horas de cola.
+- **Nadie entra en la sala de Elena desde la calle**: de 1.483 expedientes de
+  agosto, 1.301 vienen de Fiscalía y 174 de Comisaría. Solo mide a quien ya ha
+  pasado por una puerta. Base de la aritmética imposible del cap 35.
+- **El parte de asistencia del 30-VII**: RCP sobre el cuerpo nº 7 de 08:04 a
+  08:31, compresiones y DEA, no desfibrilable. No estaba en el expediente. La
+  infiltración hemorrágica lo desmonta como causa de la fractura (a las 08:04
+  llevaba entre 1 y 2,5 horas muerto y un corazón parado no infiltra).
+- **Driss no entra en el sistema por miedo a la prueba**: «a mi amigo le pusieron
+  dieciocho y tenía dieciséis». Julia lo ve el 12-VIII: se dio la vuelta cuando
+  faltaban ocho para entrar.
+
+**Las tres conversaciones de Robles en agosto de 2017 (cap 25) — CLAVE:**
+1-VIII pasillo de Comisaría, 4 minutos, nada. 3-VIII en el CETI, le explica el
+dispositivo y le deja claro que **nunca le va a pedir nada a un perito**. 4-VIII
+en el aparcamiento del hospital: la frase del margen. **Y la frase no era una
+insinuación: era una advertencia.** «Dentro del margen manda usted. Usted sola.»
+Elena la recordó nueve años como un empujón del Estado porque esa versión la
+dejaba a ella de funcionaria empujada. El motivo de Robles: «lo que yo firmo es
+una devolución, y necesito que el papel que me llega de ustedes sea verdad».
+
+**Promesas abiertas nuevas:**
+- Cifuentes planta en el 26 la hipótesis verdadera (**un brazo en el agua**) y
+  Elena la descarta con «eso no explica el papel del bolsillo». Ironía dramática
+  abierta hasta el 82.
+- Cifuentes no sabe nada del papel. Su última frase es «¿qué papel?». **Hilo
+  vivo: si Elena se lo cuenta, Cifuentes vuelve.**
+- Elena no ha escrito «no lo sé» en veintitrés años (26) → paga en el 99.
+- Julia: «¿y si son diez mil?» (24).
