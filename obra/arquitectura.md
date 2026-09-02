@@ -447,6 +447,23 @@ años de reproches por gastar. *Gancho.*
 **078 · El altillo · [2026] · 1.900.** Elena baja la caja. La radiografía de Driss
 lleva cuarenta y cinco días ahí. *Giro.*
 
+> **BISAGRA DEL ÚLTIMO TERCIO, establecida en el 78.** En la radiografía ilegal de
+> Driss, tomada el 18-VIII y guardada cuatro meses en el altillo, hay en el borde de
+> la placa —en la zona que no se mira cuando se busca una edad— una **fractura por
+> avulsión de la apófisis estiloides del cúbito izquierdo en consolidación**, de dos
+> a cuatro semanas de evolución, es decir, del 21 de julio al 4 de agosto. Es la
+> lesión que deja un cabo de polipropileno enrollado en la muñeca cuando vuelca un
+> bidón de doscientos litros. Elena la miró dieciocho minutos en agosto y no la vio
+> **porque estaba buscando una edad**: el tema del libro entregado como giro de
+> trama.
+>
+> Lo que el 78 da: el mecanismo (el bidón, el cabo, Driss debajo del agua).
+> Lo que el 78 NO da: que la persona a la que Driss se subió fuera Anuar. Eso sigue
+> siendo el trabajo de los capítulos **091-093** (la marea, la reconstrucción, el
+> antebrazo), que ahora no revelan el mecanismo sino que **cierran la identidad**.
+> Y la placa es ilegal, así que probarlo la destruye a ella y a Chelo: ese es el
+> conflicto de los capítulos 081 y 097-098.
+
 **079 · Anuar III · [ANUAR] · 1.000.** Seis años. El hermano se va a España y él no
 entiende por qué llora su madre. *Silencio.*
 

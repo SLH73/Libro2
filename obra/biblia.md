@@ -393,3 +393,47 @@ Elena (cap 57): Rueda, Robles, Cañete, Bernal, Padilla, Loureiro — y Berengue
 su cliente. **Paga en el 68.** · El informe de Driss firmado con 17 sobre una placa
 de 18 es detectable por Padilla en el control interno de una de cada diez → paga
 en el 80/90. · Elena encontró a Amparo Gil en dos minutos y no la llamó.
+
+### Capítulos 65-78 (sesión 1)
+
+**Personajes nuevos:** **Charo**, panadera, 9 años despachándole. **Julián Escámez**,
+jefe de Traumatología, se mete por la escalera para no cruzársela. **El hermano del
+de la ferretería**, que le grita «¡cuarenta y tres niños, señora!» en la calle Real.
+**Yeray**, 21, el chico de la Almadraba: 4.160 nombres apuntados a mano entre el 1-VIII
+y el 30-IX; entrega el cuaderno a una asociación y ninguna administración se lo pide.
+**Mercedes Arrúe**, 59, abogada de extranjería de la calle Serrano, 12 ediciones de un
+manual. **Paco**, de Vícar, le enseñó a soldar a Yassin los sábados en 2022 y le regaló
+un mono al irse. **Rachid**, capataz de Fnideq que no dejaba subir a los menores de
+16 a la tercera altura.
+
+**Datos duros fijados:**
+- **Cap 69, la comparecencia del 10-XI** (información reservada, instructor
+  Sanchidrián + letrada que da fe): Elena cuenta los 43, el sótano de julio de 2017,
+  los 119 de Rueda, y que **no hubo orden**. Y cuenta lo del reloj: las 18:11 y el
+  barco de las 20:15. La del **cap 103 es otra**: la del expediente disciplinario ya
+  incoado, donde entrega la versión C (la radiografía ilegal).
+- **Cap 70**: le dice a Padilla que en agosto se fue a su casa aliviado por no
+  firmar los cuatro folios. Padilla contesta: *«Doctora, lo del alivio no era
+  mentira.»*
+- **Cap 72**: **Cañete recibe el caso por orden de arriba** el 24-XI, con plazo y dos
+  agentes, porque Elena salió en la prensa. Los ocho papeles del expediente los ha
+  producido ella. Bernal le entrega **fotocopia de las 43 páginas** de su libreta
+  («la libreta es mía, que me la compré yo en el estanco»). Chaimae registra una
+  carta de cuatro folios que **no defiende a Elena**: cuenta siete mediaciones.
+- **Cap 75, el remate de la línea de 2017**: el **19-IX-2017** Elena escribe su primer
+  quince. Rueda le pone el visto bueno a las 16:20 junto con otros seis y al pasar
+  por su puerta le pregunta por el aire acondicionado. **La conversación que evitó el
+  4 de agosto no existía.** Oct 2017: 11 informes, cuatro quinces y un catorce.
+- **Cap 76, la detención**: 3-XII, 07:42. Registro autorizado por dos motivos —el
+  favorecimiento de Julia y que en ese piso ha vivido cuatro meses **el único que
+  declaró haber estado en el agua con la víctima**. Driss declaró como testigo el
+  jueves 26-XI con el educador delante: el bidón, el cabo enrollado en la muñeca, el
+  vuelco, estar debajo, salir, y que **había alguien**. Cuatro veces le preguntó
+  Cañete y cuatro veces contestó «podía ser cualquiera».
+- Julia sale el 3-XII con comparecencia apud acta los días 1 y 15 y **prohibición de
+  acercarse a Driss**. Dice que no la va a cumplir.
+- **Cap 77**: Gonzalo le pregunta dos veces **«¿hay algo tuyo en esto?»** y Elena
+  contesta a otra cosa. Arrúe: si aparece algo de la madre, deja de ser una chica
+  ayudando a un chaval y pasa a ser una familia.
+- **Cap 78, LA BISAGRA**: la fractura de estiloides cubital en la placa del altillo.
+  Ver la nota añadida en `obra/arquitectura.md` antes de la ficha 079.
