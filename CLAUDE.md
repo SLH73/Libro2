@@ -11,6 +11,18 @@ migratoria de Ceuta del 30 y 31 de julio de 2026, escrita para competir por el
 
 ---
 
+## ✅ ESTADO: LA NOVELA ESTÁ TERMINADA (2 de septiembre de 2026)
+
+126 capítulos, 144.033 palabras, manuscrito ensamblado en `obra/manuscrito.md`.
+La tarea programada horaria (`trig_01BUX1xiHGVfV5fxAvJsCJ1n`) está **desactivada**.
+
+**No escribas capítulos nuevos.** Lo que queda es revisión sobre capítulos existentes y
+está listado en `obra/informes/editorial-05.md` §8 y `obra/informes/autenticidad-05.md`.
+Si el autor decide subir la extensión hasta 155.000, la única vía honrada son capítulos
+nuevos con material propio —nunca alargar los existentes—: ver `editorial-05.md` §6.
+
+---
+
 ## ⚠️ LO PRIMERO QUE HACES AL ABRIR ESTA SESIÓN
 
 Esta novela se escribe **en muchas sesiones encadenadas**. Cada sesión se agota

@@ -542,7 +542,7 @@ Elena no puede pagar con su propio dinero. *Gancho.*
 
 **098 · La decisión · [2026] · 2.200.** La toma. *Giro. Fin Parte IV.*
 
-## PARTE V — EL NOMBRE (99-125) · marzo – junio de 2027 · ~40.000
+## PARTE V — EL NOMBRE (99-126) · marzo – junio de 2027 · ~40.000
 
 > **CORRECCIÓN OBLIGATORIA DE LA PARTE V (informe `editorial-04.md`).** La Parte IV se
 > convirtió en la conciencia de Elena: todos los personajes tenían su escena capital
