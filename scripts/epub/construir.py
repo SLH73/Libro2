@@ -41,7 +41,7 @@ for f in ficheros:
             capitulos += 1
             num, titulo = m.group(1), m.group(2).strip()
             if FORMATO == "epub":
-                out += ["", f'## <span class="numero">{num}</span><span class="sep"> · </span>{titulo}', ""]
+                out += ["", f"## {num} · {titulo}", ""]
             else:
                 out += ["", f"## {titulo}", ""]
             i += 1

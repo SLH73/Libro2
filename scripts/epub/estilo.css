@@ -39,13 +39,8 @@ h2 {
   line-height: 1.4;
 }
 
-h2 .numero {
-  display: block;
-  font-size: 0.72em;
-  letter-spacing: 0.22em;
-  color: #7a736a;
-  margin-bottom: 0.9em;
-}
+/* el número va dentro del propio título («12 · Greulich y Pyle») para que el
+   índice de cualquier lector lo lea como texto plano */
 
 /* ---------- Epígrafe (fecha o marca de línea) ---------- */
 p.epigrafe {
@@ -123,6 +118,3 @@ p.publisher, p.date, div.rights {
   margin-top: 0.6em;
 }
 p.publisher { margin-top: 5em; }
-
-/* separador que solo existe para el texto plano del índice */
-h2 .sep { display: none; }
